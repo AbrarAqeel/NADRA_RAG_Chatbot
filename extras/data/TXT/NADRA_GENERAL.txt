@@ -1,0 +1,623 @@
+
+CANCELLATION OF IDENTITY CARD (CNIC/CRC/NICOP/POC)
+
+Purpose:
+Official process to deactivate an identity card when it is no longer valid, such as in cases of death, surrender of nationality, duplicate cards, or divorce (for foreign spouse).
+
+Scenarios:
+1. Cancellation Due to Death: Immediate family members (parent, sibling, child, or spouse) of a deceased Pakistani citizen or exPakistani can apply for cancellation. Requires CNIC/NICOP of relative and death certificate from Union Council.
+2. Surrender of Nationality: For citizens who have renounced Pakistani nationality after acquiring a foreign passport and are not allowed dual nationality.
+3. Dual Nationality or Reacquired Pakistani Nationality: ExPakistanis who reacquire Pakistani nationality or whose country becomes eligible for dual nationality.
+4. Divorce (Foreign Spouse Only): Pakistani spouse can apply for cancellation of exspouse’s POC after divorce.
+5. Duplicate Cards (DUP Status): Citizens holding multiple ID cards must contact NADRA or email dup.op@nadra.gov.pk to clear duplicates.
+
+How to Apply at NADRA Registration Center (NRC):
+ Visit any NADRA Registration Center.
+ Receive a token.
+ Photograph, fingerprints, and signature will be captured.
+ Data will be entered and printed for review.
+ Get the form attested by a blood relative or gazetted officer and submit back to NRC.
+
+Note:
+“DUP” status means duplicate identity cards exist; applicant must request DUP clearance to retain the valid one.
+
+
+CHILD REGISTRATION CERTIFICATE (CRC / BFORM)
+
+Purpose:
+Registers a child in NADRA’s database and establishes their parentage. It is a vital identity document for all children in Pakistan.
+
+Eligibility:
+ Must provide proof of birth (Union Council birth certificate).
+ At least one parent must have CNIC or NICOP.
+ For children up to 1 year old, can apply online via Pak ID Mobile App.
+ For children older than 1 year, application must be made at NADRA Registration Center (NRC).
+
+Applying via Pak ID Mobile App:
+1. Log in or create a Pak ID account.
+2. Select “Issuance of Identity Document” → “Child Registration Certificate (CRC)”.
+3. Provide parent’s 13digit ID number and start the application.
+4. Upload child’s photograph and required documents.
+5. Provide digital signature and verify one parent’s fingerprints.
+6. Review details and submit application.
+
+Applying via NADRA Registration Center (NRC):
+1. Visit NRC and receive a token.
+2. Photograph, fingerprints, and signature captured.
+3. Review printed form and get it attested by gazetted officer (if spouse not present).
+4. If both parents are present, attestation not required.
+
+Legal Note:
+Under Section 9 of the NADRA Ordinance 2000, every child must be registered within one month of birth. Pak ID allows online CRC registration for children up to one year of age.
+
+
+FAMILY REGISTRATION CERTIFICATE (FRC)
+
+Purpose:
+An official document verifying family composition as recorded in NADRA’s database. Commonly used for embassy and verification purposes but not a legal document.
+
+Categories:
+1. By Birth: Shows parents and siblings.
+2. By Marriage: Shows spouse and children.
+3. By Adoption: Shows guardian and adopted children.
+
+Eligibility:
+All family members must be registered with NADRA and possess valid 13digit identification numbers. Unregistered members will not appear in the FRC.
+
+Application Methods:
+
+At NADRA Registration Center (NRC):
+ Receive token.
+ Photographs of minors taken.
+ Data entered and reviewed.
+ Printed FRC handed over in real time.
+ For children under 18, their presence is required.
+
+Through Pak ID Mobile App:
+ Apply online through Pak ID platform.
+ Upload data and verify details.
+ FRC PDF sent via email within 24 hours to 2 working days.
+
+Documents Required:
+ CNIC/CRC/NICOP/POC numbers of family members.
+ Correct spellings as per NADRA record.
+ Photographs of applicant and minors (<18 years).
+ Unregistered family members must update CNIC before linking.
+
+Restrictions:
+Only English name spellings can be corrected. Name changes of family members are not permitted within FRC.
+
+Delivery Time:
+ Through NRC: Issued immediately.
+ Through Pak ID: Delivered by email within 1–2 working days.
+
+
+JUVENILE CARD (JV)
+
+Purpose:
+The Juvenile Card is a secure, chipbased identity document issued by NADRA to children under the age of 18. It serves as an official identity document, unlike the Child Registration Certificate (CRC), and grants access to multiple public services and facilities.
+
+Eligibility:
+ Pakistani citizens under 18 years of age.
+ Must have at least one parent or legal guardian with a valid CNIC or NICOP.
+ Applicant must be physically present at the NADRA Registration Center (NRC).
+
+Requirements:
+ Presence of a parent or blood relative (father, mother, brother, sister, daughter, or son) with a valid CNIC to provide biometrics.
+ Original birth certificate or valid CRC of the applicant.
+ Application must be submitted in person; no online service is available for Juvenile Cards.
+
+How to Apply at NADRA Registration Center (NRC):
+1. Visit any NADRA Registration Center.
+2. Receive a token upon arrival.
+3. Photograph, fingerprints, and signature of the child will be captured.
+4. Required data will be entered and printed for review.
+5. Review printed form for accuracy.
+6. Get the form attested by a blood relative or gazetted officer.
+7. Submit the attested form back to the NRC for processing.
+
+Processing & Delivery Time:
+ Normal: 31 days
+ Urgent: 15 days
+ Fast Track: 9 days (priority queue and expedited processing)
+
+Note:
+Processing time starts only after submission of the attested form. Online application via Pak ID Mobile App is currently not available for Juvenile Cards.
+
+
+SUCCESSION CERTIFICATE
+
+Purpose:
+The Succession Certificate program enables legal heirs to obtain Letters of Administration or Succession Certificates through NADRA without having to approach the courts. This initiative streamlines inheritance matters for Pakistani citizens and significantly reduces the judicial burden.
+
+Background:
+Launched in January 2021, the NADRA Succession Certificate system introduced a simplified, technologydriven process to issue inheritance certificates in a transparent and efficient manner. It has reduced the judiciary’s workload by nearly 30%.
+
+Key Features:
+ Simplified Process: A fivestep process replaces lengthy court visits.
+ Efficiency: Considerably faster than traditional court procedures.
+ Transparency: Ensures secure verification and issuance.
+ Convenience: Applicants can complete the process at NADRA centers instead of courts.
+ Accessibility: Available at districtlevel NADRA offices in multiple provinces.
+
+Benefits:
+ Eliminates the need for lengthy and costly court proceedings.
+ Ensures transparent and reliable verification of legal heirs.
+ Reduces overall time and effort for applicants.
+ Provides official documentation recognized by relevant institutions.
+
+Regions Where Service Is Available:
+ Islamabad Capital Territory (ICT)
+ Punjab
+ Sindh
+ Khyber Pakhtunkhwa (KP)
+
+Note:
+The Succession Certificate program will be expanded to additional regions across Pakistan. Applicants are advised to visit NADRA’s official website for the latest updates and availability.
+
+
+NATIONAL IDENTITY CARD (CNIC)
+
+
+Purpose:
+The National Identity Card (CNIC) is the official identification document for Pakistani citizens aged 18 years and above. It establishes identity, citizenship, and eligibility for government services and benefits. NADRA issues, renews, modifies, and cancels CNICs under clearly defined processes.
+
+
+CNIC RENEWAL
+
+Purpose:
+To renew an expired CNIC or one that is nearing expiry while maintaining the same personal information.
+
+Documents Required:
+ Scanned image of existing CNIC or NICOP.
+
+Details:
+ Only the photograph will be updated during renewal.
+ If you wish to change any information (name, address, marital status, etc.), apply under the Modification category instead.
+
+
+CNIC MODIFICATION
+
+Purpose:
+To update or correct information on an existing CNIC.
+
+Modification Types and Requirements:
+
+1. Name Change  
+    Name change not allowed in online applications.  
+    Visit nearest NADRA Registration Center (NRC).
+
+2. Parent Name  
+    Not allowed in online applications.  
+    Visit nearest NADRA Registration Center (NRC).
+
+3. Date of Birth (D.O.B)  
+    Cannot be modified online.  
+    Visit NRC for manual correction.
+
+4. Present/Temporary Address Modification  
+    No document required if adding a house and street number.  
+    For unnumbered addresses, acceptable documents include:  
+      Utility bill (electricity, gas, water)  
+      Property document  
+      Verified Local/Domicile/PRC Certificate  
+      Affidavit or Rent Deed verified by house owner  
+      Spouse’s or parent’s ID card with same address  
+
+5. Marital Status Modification  
+    **Marriage:** Nikkahnama / Marriage Certificate / Affidavit attested by Oath Commissioner and spouse CNIC.  
+    **Divorce:** Divorce Certificate from Union Council.  
+    **Widow:** Death Certificate of spouse or attested affidavit.  
+    **Unmarried to Widow/Divorce:** Marriage or Divorce Certificate / Court Decree / Affidavit.  
+    Female applicants can only change status from *Married* to *Widowed*.  
+
+6. Religion Modification  
+    **To Islam:** No document required. Reversion to Islam allowed anytime.  
+    **From Islam to another religion:** Declaration/Undertaking form required.  
+     (Modification not allowed if declaration of being Muslim was made after 13 Dec 2018.)  
+
+7. Place of Birth Modification  
+    Requires documentary evidence for country change.
+
+8. Mother Details  
+    For firsttime addition, scanned copies of mother’s and sibling’s ID cards required.
+
+9. Mother Tongue, Mark of ID, Qualification, Profession, Contact, and Relative Details  
+    No document required unless requested by NADRA.
+
+10. Disability Addition  
+     Disability certificate from NCRDP/PCRDP or relevant social welfare authority required.
+
+
+CNIC CANCELLATION
+
+Purpose:
+To formally cancel an existing CNIC in cases of death, nationality surrender, or dual nationality status.
+
+Types of Cancellation:
+
+1. **Due to Death**  
+    Immediate family member submits:  
+      Cut (destroyed) CNIC of deceased  
+      Death Certificate  
+      Affidavit/Undertaking confirming death  
+
+2. **Due to Nationality Surrender**  
+    Applicable when a citizen acquires a foreign passport and renounces Pakistani nationality.  
+    Documents required:  
+      Original CNIC/CRC/NICOP  
+      Renunciation Certificate of Pakistani Nationality or valid foreign passport (nondual nationality country).  
+
+3. **Due to Dual Nationality or Reacquired Nationality**  
+    Applicable for exPakistanis reacquiring Pakistani nationality or when a dualnationality agreement is announced with their current country.
+
+4. **Duplicate ID Cards (DUP Status)**  
+    Citizens with multiple CNICs must visit NADRA or email **dup.op@nadra.gov.pk** for resolution.
+
+
+EXPEDITED CNIC APPLICATION
+
+Purpose:
+To upgrade an existing application from **Normal** or **Urgent** to **Executive** for faster processing.
+
+Steps to Expedite:
+1. Log in to your Pak ID account.  
+2. Accept terms and conditions and select the S/CNIC tab.  
+3. Choose “I want to expedite my application.”  
+4. Enter tracking ID and proceed.  
+5. Pay the additional fee via credit card.  
+6. Receive an autogenerated acknowledgment from NADRA.
+
+
+DUAL NATIONALITY COUNTRIES (Allowed by Law)
+
+1. Australia – 15 Sep 1990  
+2. Belgium – 01 Dec 1983  
+3. Canada – 17 May 1973  
+4. Egypt – 17 Sep 1990  
+5. France – 01 Dec 1983  
+6. Iceland – 01 Dec 1983  
+7. Ireland – 09 Apr 2005  
+8. Italy – 01 Dec 1983  
+9. Jordan – 27 Feb 1988  
+10. Netherlands (Holland) – 18 Feb 1993  
+11. New Zealand – 01 Dec 1983  
+12. Sweden – 29 Aug 2002  
+13. Switzerland – 15 Feb 1988  
+14. Syria – 13 Mar 1989  
+15. United Kingdom – Citizenship Act 1972  
+16. United States of America – 29 Aug 2002  
+17. Bahrain – Jun 2015  
+18. Finland – 23 Sep 2015  
+19. Denmark – 31 Oct 2017  
+
+
+CONTACT INFORMATION
+
+For general queries or assistance:  
+ NADRA Public Inquiry Service (Available 24/7)  
+ Phone: +92 51 111 786 100  
+ Email: csd@nadra.gov.pk  
+ Helpline (Mobile): 1777  
+ Website: https://www.nadra.gov.pk
+
+
+
+PAKISTAN ORIGIN CARD (POC)
+
+
+Purpose:
+The Pakistan Origin Card (POC) is an identification document issued by NADRA to Pakistaniorigin citizens living abroad. It establishes the holder’s Pakistani origin and enables access to certain rights and benefits.
+
+
+NEW POC APPLICATION
+
+Purpose:
+To apply for a new Pakistan Origin Card based on one of four grounds: parents/grandparents, Pakistani spouse, exPakistani, or Foreigner of Pakistani Origin (FPO).
+
+Documents Required:
+ Form 'Y' declaration in quadruplicate
+ Original Renunciation Certificate
+ Copies of CNIC/NICOP/POC
+ Additional documents may be requested by the Case Officer
+
+Eligibility Scenarios:
+
+1. Dual National Passport Holder:
+ Cancel existing CNIC/NICOP before applying.
+
+2. Parents/Grandparents Basis:
+ Valid foreign passport of applicant
+ CNIC/NICOP/POC/Pakistani Passport/MNIC/Domicile/Citizenship certificate of (grand)parents
+ Birth Certificate or documents linking applicant to parents
+ CNIC/NICOP of siblings/aunts/uncles/cousins with statement confirming relationship
+
+3. Pakistani Spouse Basis:
+ Valid foreign passport
+ CNIC/NICOP/POC of Pakistani spouse
+ Marriage Certificate and Affidavit from spouse
+ For deceased spouse: Death Certificate and affidavit attested by Pakistan Mission
+
+4. ExPakistani:
+ Valid foreign passport
+ CNIC/NICOP/Pakistani Passport/MNIC/Domicile/Citizenship Certificate/Renunciation Certificate
+ Additional documents for those from East Pakistan pre16 Dec 1971
+
+5. Foreigner of Pakistani Origin (FPO):
+ Valid foreign passport
+ Birth Certificate or document containing parent(s) names
+ Affidavit/Death certificate of FPO with ID documents
+
+Dual National Countries (Partial List):
+Australia, Belgium, Canada, Egypt, France, Iceland, Ireland, Italy, Jordan, Netherlands, New Zealand, Sweden, Switzerland, Syria, UK, USA, Bahrain, Finland, Denmark, Germany*, Norway
+*Germany: Only children of Pakistani nationals born in Germany who acquired German nationality.
+
+
+POC EXPIRY / RENEWAL
+
+Purpose:
+To renew an expired POC or one that is nearing expiry.
+
+Documents Required:
+ Form 'Y' declaration in quadruplicate
+ Original Renunciation Certificate
+ Copies of CNIC/NICOP/POC
+ Valid foreign passport (not expired)
+ Affidavit depending on spouse status
+ Police Clearance Report if required
+
+Notes:
+ Cannot renew POC with expired foreign passport
+ POC issued before 2008 may require additional documents depending on policy
+
+
+POC MODIFICATION
+
+Purpose:
+To update or correct information on an existing POC.
+
+Modification Types and Requirements:
+
+1. Date of Birth (D.O.B)
+ Original POC + valid foreign passport with new DOB
+
+2. Applicant Name
+ Original POC + valid foreign passport with new name + judicial name change deed translated in English
+
+3. Permanent Pakistani Address
+ POC + NICOP/POC of relatives/spouse OR Property/Tenancy documents OR affidavits
+
+4. Marital Status
+ Marriage: Nikahnama / Marriage Certificate
+ Remarriage: Death Certificate + latest Marriage Certificate
+ Divorce: Divorce Certificate + latest Marriage Certificate (foreign spouse POC holders not eligible)
+ Widow: Death Certificate + affidavit
+
+
+POC CANCELLATION
+
+Purpose:
+To formally cancel a POC in cases of nationality surrender or dual nationality arrangements.
+
+Documents Required:
+ Form 'Y' declaration in quadruplicate
+ Original Renunciation Certificate
+ Copies of CNIC/NICOP/POC
+ Undertaking for POC cancellation (if applicable)
+
+Eligibility:
+ Passport from dual national countries: Undertaking for POC Cancellation
+ Surrendered nationality from other than dual national countries: Valid Foreign passport + Undertaking
+ Ineligible if criteria not met
+
+
+EXPEDITING POC APPLICATION
+
+Purpose:
+To upgrade an existing POC application from Normal/Urgent to Executive for faster processing.
+
+Steps to Expedite:
+1. Log in to your Pak ID account
+2. Accept terms and conditions and select the POC tab
+3. Click “I want to expedite my application”
+4. Enter tracking ID and press “Next”
+5. Pay the additional fee via credit card
+6. Receive an autogenerated acknowledgment from NADRA
+
+
+DUAL NATIONALITY COUNTRIES (Allowed by Law)
+
+1. Australia – 15 Sep 1990
+2. Belgium – 01 Dec 1983
+3. Canada – 17 May 1973
+4. Egypt – 17 Sep 1990
+5. France – 01 Dec 1983
+6. Iceland – 01 Dec 1983
+7. Ireland – 09 Apr 2005
+8. Italy – 01 Dec 1983
+9. Jordan – 27 Feb 1988
+10. Netherlands (Holland) – 18 Feb 1993
+11. New Zealand – 01 Dec 1983
+12. Sweden – 29 Aug 2002
+13. Switzerland – 15 Feb 1988
+14. Syria – 13 Mar 1989
+15. United Kingdom – Citizenship Act 1972
+16. United States of America – 29 Aug 2002
+17. Bahrain – Jun 2015
+18. Finland – 23 Sep 2015
+19. Denmark – 31 Oct 2017
+20. Germany* – 03 Dec 2019
+21. Norway – 29 Dec 2020
+*Only children of Pakistani nationals born in Germany who acquired German nationality.
+
+
+CONTACT INFORMATION
+
+For general queries or assistance:
+ NADRA Public Inquiry Service (Available 24/7)
+ Phone: +92 51 111 786 100
+ Email: csd@nadra.gov.pk
+ Helpline (Mobile): 1777
+ Website: https://www.nadra.gov.pk
+
+
+
+NATIONAL IDENTITY CARD FOR OVERSEAS PAKISTANIS (NICOP/SNICOP)
+
+
+Purpose:
+The NICOP/SNICOP is an official identity card issued by NADRA to Pakistani citizens living abroad. It establishes identity, nationality, and eligibility for government services and travel purposes.
+
+
+LOST/STOLEN NICOP
+
+Purpose:
+To apply for a replacement of a stolen or lost NICOP.
+
+Documents Required:
+
+1. Applying from Single National Country (Nondual nationality countries):
+ Pakistani Passport OR if not available, Undertaking from 2 witnesses
+
+2. Applying from Dual National Countries:
+ Foreign or Pakistani Passport OR if not available, Undertaking from 2 witnesses
+ Note: For Germany, applicable only for children born from Pakistani parent and raised in Germany
+
+
+NICOP RENEWAL
+
+Purpose:
+To renew an existing NICOP while keeping personal information unchanged.
+
+Documents Required:
+ Form 'Y' declaration in quadruplicate
+ Original Renunciation Certificate
+ Scanned image of existing NICOP/CNIC
+ Valid foreign or Pakistani passport (as per nationality rules)
+ For single national countries, attested Undertaking from 2 witnesses if passport not available
+
+Notes:
+ Only the photograph will be updated
+ No document required for foreign address modification
+ To modify other fields, apply under Modification category
+
+
+NICOP MODIFICATION
+
+Purpose:
+To update or correct personal information on an existing NICOP.
+
+Modification Types and Requirements:
+
+1. Date of Birth (D.O.B)
+ Age change up to or more than 5 years: Valid foreign documents (Passport/Resident Permit/Work Permit/PR Card/Sojourn/Green Card)
+ Age change up to 5 years: Pakistani Passport OR Matric Certificate/Mark Sheet OR Service Book
+ Secondtime age change (max 366 days): Valid Pakistani or foreign documents
+ Oneyear change allowed via Birth Certificate
+ Minor adjustments for siblings or day/month changes: No documents required
+
+2. Applicant Name
+ Complete name change: Undertaking notarized by local attorney or attested by Pakistan Mission + Pakistani or foreign documents
+ Name change due to religion change: Certificate from DarUlAfta/Islamic Centre (only to Islam)
+ Minor name change (remove/add part of name): Valid Pakistani or foreign document OR Matric Certificate OR Undertaking
+ Partial name change (caste only): No documents required
+ Note: Name change cannot be reverted or modified a second time, except for female applicants (husband/father)
+
+3. Parents Name
+ Minor correction: CNIC/NICOP data OR educational document OR passport with desired parent name
+ Complete correction: MNIC (Rg1/Rg3) OR old Bform OR old Pakistani Passport OR Matric Certificate
+
+4. Present/Permanent Address
+ Present/Temporary Address: Parents/siblings/children/spouse’s ID cards OR utility bill OR property documents OR rent deed/affidavit
+ Permanent Address: Scanned images of blood relative/spouse ID cards OR utility bill OR property documents OR verified local/domicile/PRC certificate
+ Note: No document required for present foreign address
+
+5. Marital Status
+ Marriage: Nikahnama / Marriage Certificate OR notarized/attested by Pakistan Mission + spouse CNIC
+ Divorce: Divorce Certificate OR Final Court Order/Absolute Decree/Undertaking
+ Widow: Death Certificate of spouse OR notarized/attested affidavit
+ Unmarried to Widow/Divorce: Marriage/Divorce Certificate + affidavit
+ Male applicants can modify all marital statuses; female applicants only Married → Widowed
+
+6. Religion
+ From other religion to Islam: Undertaking or Certificate from DarUlAfta/Islamic Centre
+ From Islam to other religion: Declaration/undertaking (only allowed if initial declaration before 13 Dec 2018)
+
+7. Place of Birth (Country)
+ Documentary evidence required for country change
+
+8. Mother Details
+ Firsttime addition: Scanned images of mother and sibling ID cards
+ Minor change: Scanned mother and sibling ID cards
+ Complete change: Scanned MNIC (Rg1/Rg3), old Bform, or old Pakistani Passport
+
+9. Mother Language, Mark of ID, Qualification, Profession, Contact, Relative Details
+ No document required
+
+10. Disability
+ Blind, Physical Disability, Mentally Retarded, Hearing Impaired
+ Disability certificate from NCRDP/PCRDP or social welfare authority required
+
+
+NICOP CANCELLATION
+
+Purpose:
+To cancel an existing NICOP due to nationality change, dual nationality, or death.
+
+Documents Required:
+
+1. For nationality change (nondual country):
+ Original NICOP + Renunciation Certificate OR Valid foreign passport
+
+2. If not formally renounced Pakistani nationality:
+ Apply via Pakistani Consulate or IMPASS to renounce nationality
+
+3. Deceased Family Member:
+ Cut image of deceased ID into two pieces
+ Death Certificate of deceased
+ Affidavit/Undertaking confirming death
+
+
+MINOR REGISTRATION / FIRSTTIME NICOP
+
+Purpose:
+For minors (under 18) or adults registering for NICOP for the first time.
+
+Documents Required:
+
+1. Minors (up to 18 years)
+ BForm OR Detailed Birth Certificate OR S1 Form issued by Pak Mission OR Citizenship Certificate OR Pakistani Passport
+ Foreign/Pakistani passport/Resident card/PR card/Travel Document (3year exemption for minors born abroad)
+ Scanned images of CNIC/NICOP of parent/sibling/grandparents
+
+2. Applicants 18+ registering for the first time
+ BForm OR Detailed Birth Certificate OR A/O Level OR Matric OR MNIC OR Domicile OR Citizenship Certificate OR any passport as proof of birth and parentage
+ Scanned CNIC/NICOP of parents/immediate blood relatives OR Undertaking with 2 witnesses + scanned IDs and passports of witnesses
+ If married: Nikahnama OR Marriage Certificate OR Affidavit attested by Pak Mission/notarized
+
+
+EXPEDITING NICOP APPLICATION
+
+Purpose:
+To upgrade an existing NICOP application from Normal/Urgent to Executive for faster processing.
+
+Steps to Expedite:
+1. Login to Pak ID account
+2. Accept terms and select S/CNICS/NICOP tab
+3. Click “I want to expedite my application”
+4. Enter Tracking ID and press “Next”
+5. Pay additional fee via credit card
+6. Receive autogenerated acknowledgment from NADRA
+
+
+CONTACT INFORMATION
+
+For general queries or assistance:
+ NADRA Public Inquiry Service (Available 24/7)
+ Phone: +92 51 111 786 100
+ Email: csd@nadra.gov.pk
+ Helpline (Mobile): 1777
+ Website: https://www.nadra.gov.pk
+
+
+

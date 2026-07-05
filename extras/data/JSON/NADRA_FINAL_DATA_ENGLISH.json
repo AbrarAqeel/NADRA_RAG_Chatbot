@@ -1,0 +1,2073 @@
+[
+  {
+    "chunk_id": "general_regulations_001",
+    "router": {
+      "domain": "general",
+      "group": "regulations"
+    },
+    "content": {
+      "en": {
+        "text": "CANCELLATION OF IDENTITY CARD (CNIC/CRC/NICOP/POC) Purpose:\nOfficial process to deactivate an identity card when it is no longer valid, such as in cases of death, surrender of nationality, duplicate cards, or divorce (for foreign spouse). Scenarios:\n1. Cancellation Due to Death: Immediate family members (parent, sibling, child, or spouse) of a deceased Pakistani citizen or exPakistani can apply for cancellation. Requires CNIC/NICOP of relative and death certificate from Union Council.\n2. Surrender of Nationality: For citizens who have renounced Pakistani nationality after acquiring a foreign passport and are not allowed dual nationality.\n3. Dual Nationality or Reacquired Pakistani Nationality: ExPakistanis who reacquire Pakistani nationality or whose country becomes eligible for dual nationality.\n4. Divorce (Foreign Spouse Only): Pakistani spouse can apply for cancellation of exspouse’s POC after divorce.\n5. Duplicate Cards (DUP Status): Citizens holding multiple ID cards must contact NADRA or email dup.op@nadra.gov.pk to clear duplicates. How to Apply at NADRA Registration Center (NRC):\n Visit any NADRA Registration Center.\n Receive a token.\n Photograph, fingerprints, and signature will be captured.\n Data will be entered and printed for review.\n Get the form attested by a blood relative or gazetted officer and submit back to NRC. Note:\n“DUP” status means duplicate identity cards exist; applicant must request DUP clearance to retain the valid one. CHILD REGISTRATION CERTIFICATE (CRC / BFORM) Purpose:\nRegisters a child in NADRA’s database and establishes their parentage. It is a vital identity document for all children in Pakistan. Eligibility:\n Must provide proof of birth (Union Council birth certificate).\n At least one parent must have CNIC or NICOP.\n For children up to 1 year old, can apply online via Pak ID Mobile App.\n For children older than 1 year, application must be made at NADRA Registration Center (NRC).",
+        "tokens": 289,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": false,
+      "overlap_with": [],
+      "overlap_ratio": 0.0
+    },
+    "metadata": {
+      "source_file": "NADRA_GENERAL.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "general_regulations_002",
+    "router": {
+      "domain": "general",
+      "group": "regulations"
+    },
+    "content": {
+      "en": {
+        "text": "Eligibility:\n Must provide proof of birth (Union Council birth certificate).\n At least one parent must have CNIC or NICOP.\n For children up to 1 year old, can apply online via Pak ID Mobile App.\n For children older than 1 year, application must be made at NADRA Registration Center (NRC). Applying via Pak ID Mobile App:\n1. Log in or create a Pak ID account.\n2. Select “Issuance of Identity Document” → “Child Registration Certificate (CRC)”.\n3. Provide parent’s 13digit ID number and start the application.\n4. Upload child’s photograph and required documents.\n5. Provide digital signature and verify one parent’s fingerprints.\n6. Review details and submit application. Applying via NADRA Registration Center (NRC):\n1. Visit NRC and receive a token.\n2. Photograph, fingerprints, and signature captured.\n3. Review printed form and get it attested by gazetted officer (if spouse not present).\n4. If both parents are present, attestation not required. Legal Note:\nUnder Section 9 of the NADRA Ordinance 2000, every child must be registered within one month of birth. Pak ID allows online CRC registration for children up to one year of age. FAMILY REGISTRATION CERTIFICATE (FRC) Purpose:\nAn official document verifying family composition as recorded in NADRA’s database. Commonly used for embassy and verification purposes but not a legal document. Categories:\n1. By Birth: Shows parents and siblings.\n2. By Marriage: Shows spouse and children.\n3. By Adoption: Shows guardian and adopted children. Eligibility:\nAll family members must be registered with NADRA and possess valid 13digit identification numbers. Unregistered members will not appear in the FRC. Application Methods: At NADRA Registration Center (NRC):\n Receive token.\n Photographs of minors taken.\n Data entered and reviewed.\n Printed FRC handed over in real time.\n For children under 18, their presence is required.",
+        "tokens": 290,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "general_regulations_001"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_GENERAL.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "general_regulations_003",
+    "router": {
+      "domain": "general",
+      "group": "regulations"
+    },
+    "content": {
+      "en": {
+        "text": "At NADRA Registration Center (NRC):\n Receive token.\n Photographs of minors taken.\n Data entered and reviewed.\n Printed FRC handed over in real time.\n For children under 18, their presence is required. Through Pak ID Mobile App:\n Apply online through Pak ID platform.\n Upload data and verify details.\n FRC PDF sent via email within 24 hours to 2 working days. Documents Required:\n CNIC/CRC/NICOP/POC numbers of family members.\n Correct spellings as per NADRA record.\n Photographs of applicant and minors (<18 years).\n Unregistered family members must update CNIC before linking. Restrictions:\nOnly English name spellings can be corrected. Name changes of family members are not permitted within FRC. Delivery Time:\n Through NRC: Issued immediately.\n Through Pak ID: Delivered by email within 1–2 working days. JUVENILE CARD (JV) Purpose:\nThe Juvenile Card is a secure, chipbased identity document issued by NADRA to children under the age of 18. It serves as an official identity document, unlike the Child Registration Certificate (CRC), and grants access to multiple public services and facilities. Eligibility:\n Pakistani citizens under 18 years of age.\n Must have at least one parent or legal guardian with a valid CNIC or NICOP.\n Applicant must be physically present at the NADRA Registration Center (NRC). Requirements:\n Presence of a parent or blood relative (father, mother, brother, sister, daughter, or son) with a valid CNIC to provide biometrics.\n Original birth certificate or valid CRC of the applicant.\n Application must be submitted in person; no online service is available for Juvenile Cards.",
+        "tokens": 244,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "general_regulations_002"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_GENERAL.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "general_regulations_004",
+    "router": {
+      "domain": "general",
+      "group": "regulations"
+    },
+    "content": {
+      "en": {
+        "text": "Requirements:\n Presence of a parent or blood relative (father, mother, brother, sister, daughter, or son) with a valid CNIC to provide biometrics.\n Original birth certificate or valid CRC of the applicant.\n Application must be submitted in person; no online service is available for Juvenile Cards. How to Apply at NADRA Registration Center (NRC):\n1. Visit any NADRA Registration Center.\n2. Receive a token upon arrival.\n3. Photograph, fingerprints, and signature of the child will be captured.\n4. Required data will be entered and printed for review.\n5. Review printed form for accuracy.\n6. Get the form attested by a blood relative or gazetted officer.\n7. Submit the attested form back to the NRC for processing. Processing & Delivery Time:\n Normal: 31 days\n Urgent: 15 days\n Fast Track: 9 days (priority queue and expedited processing) Note:\nProcessing time starts only after submission of the attested form. Online application via Pak ID Mobile App is currently not available for Juvenile Cards. SUCCESSION CERTIFICATE Purpose:\nThe Succession Certificate program enables legal heirs to obtain Letters of Administration or Succession Certificates through NADRA without having to approach the courts. This initiative streamlines inheritance matters for Pakistani citizens and significantly reduces the judicial burden. Background:\nLaunched in January 2021, the NADRA Succession Certificate system introduced a simplified, technologydriven process to issue inheritance certificates in a transparent and efficient manner. It has reduced the judiciary’s workload by nearly 30%. Key Features:\n Simplified Process: A fivestep process replaces lengthy court visits.\n Efficiency: Considerably faster than traditional court procedures.\n Transparency: Ensures secure verification and issuance.\n Convenience: Applicants can complete the process at NADRA centers instead of courts.\n Accessibility: Available at districtlevel NADRA offices in multiple provinces.",
+        "tokens": 278,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "general_regulations_003"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_GENERAL.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "general_regulations_005",
+    "router": {
+      "domain": "general",
+      "group": "regulations"
+    },
+    "content": {
+      "en": {
+        "text": "Key Features:\n Simplified Process: A fivestep process replaces lengthy court visits.\n Efficiency: Considerably faster than traditional court procedures.\n Transparency: Ensures secure verification and issuance.\n Convenience: Applicants can complete the process at NADRA centers instead of courts.\n Accessibility: Available at districtlevel NADRA offices in multiple provinces. Benefits:\n Eliminates the need for lengthy and costly court proceedings.\n Ensures transparent and reliable verification of legal heirs.\n Reduces overall time and effort for applicants.\n Provides official documentation recognized by relevant institutions. Regions Where Service Is Available:\n Islamabad Capital Territory (ICT)\n Punjab\n Sindh\n Khyber Pakhtunkhwa (KP) Note:\nThe Succession Certificate program will be expanded to additional regions across Pakistan. Applicants are advised to visit NADRA’s official website for the latest updates and availability. NATIONAL IDENTITY CARD (CNIC) Purpose:\nThe National Identity Card (CNIC) is the official identification document for Pakistani citizens aged 18 years and above. It establishes identity, citizenship, and eligibility for government services and benefits. NADRA issues, renews, modifies, and cancels CNICs under clearly defined processes. CNIC RENEWAL Purpose:\nTo renew an expired CNIC or one that is nearing expiry while maintaining the same personal information. Documents Required:\n Scanned image of existing CNIC or NICOP. Details:\n Only the photograph will be updated during renewal.\n If you wish to change any information (name, address, marital status, etc.), apply under the Modification category instead. CNIC MODIFICATION Purpose:\nTo update or correct information on an existing CNIC. Modification Types and Requirements: 1. Name Change  \n    Name change not allowed in online applications.  \n    Visit nearest NADRA Registration Center (NRC). 2. Parent Name  \n    Not allowed in online applications.  \n    Visit nearest NADRA Registration Center (NRC). 3. Date of Birth (D.O.B)  \n    Cannot be modified online.  \n    Visit NRC for manual correction.",
+        "tokens": 279,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "general_regulations_004"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_GENERAL.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "general_regulations_006",
+    "router": {
+      "domain": "general",
+      "group": "regulations"
+    },
+    "content": {
+      "en": {
+        "text": "2. Parent Name  \n    Not allowed in online applications.  \n    Visit nearest NADRA Registration Center (NRC). 3. Date of Birth (D.O.B)  \n    Cannot be modified online.  \n    Visit NRC for manual correction. 4. Present/Temporary Address Modification  \n    No document required if adding a house and street number.  \n    For unnumbered addresses, acceptable documents include:  \n      Utility bill (electricity, gas, water)  \n      Property document  \n      Verified Local/Domicile/PRC Certificate  \n      Affidavit or Rent Deed verified by house owner  \n      Spouse’s or parent’s ID card with same address 5. Marital Status Modification  \n    **Marriage:** Nikkahnama / Marriage Certificate / Affidavit attested by Oath Commissioner and spouse CNIC.  \n    **Divorce:** Divorce Certificate from Union Council.  \n    **Widow:** Death Certificate of spouse or attested affidavit.  \n    **Unmarried to Widow/Divorce:** Marriage or Divorce Certificate / Court Decree / Affidavit.  \n    Female applicants can only change status from *Married* to *Widowed*. 6. Religion Modification  \n    **To Islam:** No document required. Reversion to Islam allowed anytime.  \n    **From Islam to another religion:** Declaration/Undertaking form required.  \n     (Modification not allowed if declaration of being Muslim was made after 13 Dec 2018.) 7. Place of Birth Modification  \n    Requires documentary evidence for country change. 8. Mother Details  \n    For firsttime addition, scanned copies of mother’s and sibling’s ID cards required. 9. Mother Tongue, Mark of ID, Qualification, Profession, Contact, and Relative Details  \n    No document required unless requested by NADRA. 10. Disability Addition  \n     Disability certificate from NCRDP/PCRDP or relevant social welfare authority required. CNIC CANCELLATION Purpose:\nTo formally cancel an existing CNIC in cases of death, nationality surrender, or dual nationality status. Types of Cancellation: 1. **Due to Death**  \n    Immediate family member submits:  \n      Cut (destroyed) CNIC of deceased  \n      Death Certificate  \n      Affidavit/Undertaking confirming death 2. **Due to Nationality Surrender**  \n    Applicable when a citizen acquires a foreign passport and renounces Pakistani nationality.  \n    Documents required:  \n      Original CNIC/CRC/NICOP  \n      Renunciation Certificate of Pakistani Nationality or valid foreign passport (nondual nationality country).",
+        "tokens": 294,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "general_regulations_005"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_GENERAL.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "general_regulations_007",
+    "router": {
+      "domain": "general",
+      "group": "regulations"
+    },
+    "content": {
+      "en": {
+        "text": "1. **Due to Death**  \n    Immediate family member submits:  \n      Cut (destroyed) CNIC of deceased  \n      Death Certificate  \n      Affidavit/Undertaking confirming death 2. **Due to Nationality Surrender**  \n    Applicable when a citizen acquires a foreign passport and renounces Pakistani nationality.  \n    Documents required:  \n      Original CNIC/CRC/NICOP  \n      Renunciation Certificate of Pakistani Nationality or valid foreign passport (nondual nationality country). 3. **Due to Dual Nationality or Reacquired Nationality**  \n    Applicable for exPakistanis reacquiring Pakistani nationality or when a dualnationality agreement is announced with their current country. 4. **Duplicate ID Cards (DUP Status)**  \n    Citizens with multiple CNICs must visit NADRA or email **dup.op@nadra.gov.pk** for resolution. EXPEDITED CNIC APPLICATION Purpose:\nTo upgrade an existing application from **Normal** or **Urgent** to **Executive** for faster processing. Steps to Expedite:\n1. Log in to your Pak ID account.  \n2. Accept terms and conditions and select the S/CNIC tab.  \n3. Choose “I want to expedite my application.”  \n4. Enter tracking ID and proceed.  \n5. Pay the additional fee via credit card.  \n6. Receive an autogenerated acknowledgment from NADRA. DUAL NATIONALITY COUNTRIES (Allowed by Law) 1. Australia – 15 Sep 1990  \n2. Belgium – 01 Dec 1983  \n3. Canada – 17 May 1973  \n4. Egypt – 17 Sep 1990  \n5. France – 01 Dec 1983  \n6. Iceland – 01 Dec 1983  \n7. Ireland – 09 Apr 2005  \n8. Italy – 01 Dec 1983  \n9. Jordan – 27 Feb 1988  \n10. Netherlands (Holland) – 18 Feb 1993  \n11. New Zealand – 01 Dec 1983  \n12. Sweden – 29 Aug 2002  \n13. Switzerland – 15 Feb 1988  \n14. Syria – 13 Mar 1989  \n15. United Kingdom – Citizenship Act 1972  \n16. United States of America – 29 Aug 2002  \n17. Bahrain – Jun 2015  \n18. Finland – 23 Sep 2015  \n19. Denmark – 31 Oct 2017 CONTACT INFORMATION",
+        "tokens": 289,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "general_regulations_006"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_GENERAL.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "general_regulations_008",
+    "router": {
+      "domain": "general",
+      "group": "regulations"
+    },
+    "content": {
+      "en": {
+        "text": "CONTACT INFORMATION For general queries or assistance:  \n NADRA Public Inquiry Service (Available 24/7)  \n Phone: +92 51 111 786 100  \n Email: csd@nadra.gov.pk  \n Helpline (Mobile): 1777  \n Website: https://www.nadra.gov.pk PAKISTAN ORIGIN CARD (POC) Purpose:\nThe Pakistan Origin Card (POC) is an identification document issued by NADRA to Pakistaniorigin citizens living abroad. It establishes the holder’s Pakistani origin and enables access to certain rights and benefits. NEW POC APPLICATION Purpose:\nTo apply for a new Pakistan Origin Card based on one of four grounds: parents/grandparents, Pakistani spouse, exPakistani, or Foreigner of Pakistani Origin (FPO). Documents Required:\n Form 'Y' declaration in quadruplicate\n Original Renunciation Certificate\n Copies of CNIC/NICOP/POC\n Additional documents may be requested by the Case Officer Eligibility Scenarios: 1. Dual National Passport Holder:\n Cancel existing CNIC/NICOP before applying. 2. Parents/Grandparents Basis:\n Valid foreign passport of applicant\n CNIC/NICOP/POC/Pakistani Passport/MNIC/Domicile/Citizenship certificate of (grand)parents\n Birth Certificate or documents linking applicant to parents\n CNIC/NICOP of siblings/aunts/uncles/cousins with statement confirming relationship 3. Pakistani Spouse Basis:\n Valid foreign passport\n CNIC/NICOP/POC of Pakistani spouse\n Marriage Certificate and Affidavit from spouse\n For deceased spouse: Death Certificate and affidavit attested by Pakistan Mission 4. ExPakistani:\n Valid foreign passport\n CNIC/NICOP/Pakistani Passport/MNIC/Domicile/Citizenship Certificate/Renunciation Certificate\n Additional documents for those from East Pakistan pre16 Dec 1971 5. Foreigner of Pakistani Origin (FPO):\n Valid foreign passport\n Birth Certificate or document containing parent(s) names\n Affidavit/Death certificate of FPO with ID documents Dual National Countries (Partial List):\nAustralia, Belgium, Canada, Egypt, France, Iceland, Ireland, Italy, Jordan, Netherlands, New Zealand, Sweden, Switzerland, Syria, UK, USA, Bahrain, Finland, Denmark, Germany*, Norway\n*Germany: Only children of Pakistani nationals born in Germany who acquired German nationality. POC EXPIRY / RENEWAL Purpose:\nTo renew an expired POC or one that is nearing expiry.",
+        "tokens": 278,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "general_regulations_007"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_GENERAL.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "general_regulations_009",
+    "router": {
+      "domain": "general",
+      "group": "regulations"
+    },
+    "content": {
+      "en": {
+        "text": "POC EXPIRY / RENEWAL Purpose:\nTo renew an expired POC or one that is nearing expiry. Documents Required:\n Form 'Y' declaration in quadruplicate\n Original Renunciation Certificate\n Copies of CNIC/NICOP/POC\n Valid foreign passport (not expired)\n Affidavit depending on spouse status\n Police Clearance Report if required Notes:\n Cannot renew POC with expired foreign passport\n POC issued before 2008 may require additional documents depending on policy POC MODIFICATION Purpose:\nTo update or correct information on an existing POC. Modification Types and Requirements: 1. Date of Birth (D.O.B)\n Original POC + valid foreign passport with new DOB 2. Applicant Name\n Original POC + valid foreign passport with new name + judicial name change deed translated in English 3. Permanent Pakistani Address\n POC + NICOP/POC of relatives/spouse OR Property/Tenancy documents OR affidavits 4. Marital Status\n Marriage: Nikahnama / Marriage Certificate\n Remarriage: Death Certificate + latest Marriage Certificate\n Divorce: Divorce Certificate + latest Marriage Certificate (foreign spouse POC holders not eligible)\n Widow: Death Certificate + affidavit POC CANCELLATION Purpose:\nTo formally cancel a POC in cases of nationality surrender or dual nationality arrangements. Documents Required:\n Form 'Y' declaration in quadruplicate\n Original Renunciation Certificate\n Copies of CNIC/NICOP/POC\n Undertaking for POC cancellation (if applicable) Eligibility:\n Passport from dual national countries: Undertaking for POC Cancellation\n Surrendered nationality from other than dual national countries: Valid Foreign passport + Undertaking\n Ineligible if criteria not met EXPEDITING POC APPLICATION Purpose:\nTo upgrade an existing POC application from Normal/Urgent to Executive for faster processing. Steps to Expedite:\n1. Log in to your Pak ID account\n2. Accept terms and conditions and select the POC tab\n3. Click “I want to expedite my application”\n4. Enter tracking ID and press “Next”\n5. Pay the additional fee via credit card\n6. Receive an autogenerated acknowledgment from NADRA DUAL NATIONALITY COUNTRIES (Allowed by Law)",
+        "tokens": 298,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "general_regulations_008"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_GENERAL.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "general_regulations_010",
+    "router": {
+      "domain": "general",
+      "group": "regulations"
+    },
+    "content": {
+      "en": {
+        "text": "Purpose:\nTo upgrade an existing POC application from Normal/Urgent to Executive for faster processing. Steps to Expedite:\n1. Log in to your Pak ID account\n2. Accept terms and conditions and select the POC tab\n3. Click “I want to expedite my application”\n4. Enter tracking ID and press “Next”\n5. Pay the additional fee via credit card\n6. Receive an autogenerated acknowledgment from NADRA DUAL NATIONALITY COUNTRIES (Allowed by Law) 1. Australia – 15 Sep 1990\n2. Belgium – 01 Dec 1983\n3. Canada – 17 May 1973\n4. Egypt – 17 Sep 1990\n5. France – 01 Dec 1983\n6. Iceland – 01 Dec 1983\n7. Ireland – 09 Apr 2005\n8. Italy – 01 Dec 1983\n9. Jordan – 27 Feb 1988\n10. Netherlands (Holland) – 18 Feb 1993\n11. New Zealand – 01 Dec 1983\n12. Sweden – 29 Aug 2002\n13. Switzerland – 15 Feb 1988\n14. Syria – 13 Mar 1989\n15. United Kingdom – Citizenship Act 1972\n16. United States of America – 29 Aug 2002\n17. Bahrain – Jun 2015\n18. Finland – 23 Sep 2015\n19. Denmark – 31 Oct 2017\n20. Germany* – 03 Dec 2019\n21. Norway – 29 Dec 2020\n*Only children of Pakistani nationals born in Germany who acquired German nationality. CONTACT INFORMATION For general queries or assistance:\n NADRA Public Inquiry Service (Available 24/7)\n Phone: +92 51 111 786 100\n Email: csd@nadra.gov.pk\n Helpline (Mobile): 1777\n Website: https://www.nadra.gov.pk NATIONAL IDENTITY CARD FOR OVERSEAS PAKISTANIS (NICOP/SNICOP) Purpose:\nThe NICOP/SNICOP is an official identity card issued by NADRA to Pakistani citizens living abroad. It establishes identity, nationality, and eligibility for government services and travel purposes. LOST/STOLEN NICOP Purpose:\nTo apply for a replacement of a stolen or lost NICOP. Documents Required:",
+        "tokens": 291,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "general_regulations_009"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_GENERAL.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "general_regulations_011",
+    "router": {
+      "domain": "general",
+      "group": "regulations"
+    },
+    "content": {
+      "en": {
+        "text": "Documents Required: 1. Applying from Single National Country (Nondual nationality countries):\n Pakistani Passport OR if not available, Undertaking from 2 witnesses 2. Applying from Dual National Countries:\n Foreign or Pakistani Passport OR if not available, Undertaking from 2 witnesses\n Note: For Germany, applicable only for children born from Pakistani parent and raised in Germany NICOP RENEWAL Purpose:\nTo renew an existing NICOP while keeping personal information unchanged. Documents Required:\n Form 'Y' declaration in quadruplicate\n Original Renunciation Certificate\n Scanned image of existing NICOP/CNIC\n Valid foreign or Pakistani passport (as per nationality rules)\n For single national countries, attested Undertaking from 2 witnesses if passport not available Notes:\n Only the photograph will be updated\n No document required for foreign address modification\n To modify other fields, apply under Modification category NICOP MODIFICATION Purpose:\nTo update or correct personal information on an existing NICOP. Modification Types and Requirements: 1. Date of Birth (D.O.B)\n Age change up to or more than 5 years: Valid foreign documents (Passport/Resident Permit/Work Permit/PR Card/Sojourn/Green Card)\n Age change up to 5 years: Pakistani Passport OR Matric Certificate/Mark Sheet OR Service Book\n Secondtime age change (max 366 days): Valid Pakistani or foreign documents\n Oneyear change allowed via Birth Certificate\n Minor adjustments for siblings or day/month changes: No documents required 2. Applicant Name\n Complete name change: Undertaking notarized by local attorney or attested by Pakistan Mission + Pakistani or foreign documents\n Name change due to religion change: Certificate from DarUlAfta/Islamic Centre (only to Islam)\n Minor name change (remove/add part of name): Valid Pakistani or foreign document OR Matric Certificate OR Undertaking\n Partial name change (caste only): No documents required\n Note: Name change cannot be reverted or modified a second time, except for female applicants (husband/father)",
+        "tokens": 282,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "general_regulations_010"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_GENERAL.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "general_regulations_012",
+    "router": {
+      "domain": "general",
+      "group": "regulations"
+    },
+    "content": {
+      "en": {
+        "text": "1. Date of Birth (D.O.B)\n Age change up to or more than 5 years: Valid foreign documents (Passport/Resident Permit/Work Permit/PR Card/Sojourn/Green Card)\n Age change up to 5 years: Pakistani Passport OR Matric Certificate/Mark Sheet OR Service Book\n Secondtime age change (max 366 days): Valid Pakistani or foreign documents\n Oneyear change allowed via Birth Certificate\n Minor adjustments for siblings or day/month changes: No documents required 2. Applicant Name\n Complete name change: Undertaking notarized by local attorney or attested by Pakistan Mission + Pakistani or foreign documents\n Name change due to religion change: Certificate from DarUlAfta/Islamic Centre (only to Islam)\n Minor name change (remove/add part of name): Valid Pakistani or foreign document OR Matric Certificate OR Undertaking\n Partial name change (caste only): No documents required\n Note: Name change cannot be reverted or modified a second time, except for female applicants (husband/father) 3. Parents Name\n Minor correction: CNIC/NICOP data OR educational document OR passport with desired parent name\n Complete correction: MNIC (Rg1/Rg3) OR old Bform OR old Pakistani Passport OR Matric Certificate 4. Present/Permanent Address\n Present/Temporary Address: Parents/siblings/children/spouse’s ID cards OR utility bill OR property documents OR rent deed/affidavit\n Permanent Address: Scanned images of blood relative/spouse ID cards OR utility bill OR property documents OR verified local/domicile/PRC certificate\n Note: No document required for present foreign address 5. Marital Status\n Marriage: Nikahnama / Marriage Certificate OR notarized/attested by Pakistan Mission + spouse CNIC\n Divorce: Divorce Certificate OR Final Court Order/Absolute Decree/Undertaking\n Widow: Death Certificate of spouse OR notarized/attested affidavit\n Unmarried to Widow/Divorce: Marriage/Divorce Certificate + affidavit\n Male applicants can modify all marital statuses; female applicants only Married → Widowed 6. Religion\n From other religion to Islam: Undertaking or Certificate from DarUlAfta/Islamic Centre\n From Islam to other religion: Declaration/undertaking (only allowed if initial declaration before 13 Dec 2018)",
+        "tokens": 293,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "general_regulations_011"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_GENERAL.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "general_regulations_013",
+    "router": {
+      "domain": "general",
+      "group": "regulations"
+    },
+    "content": {
+      "en": {
+        "text": "6. Religion\n From other religion to Islam: Undertaking or Certificate from DarUlAfta/Islamic Centre\n From Islam to other religion: Declaration/undertaking (only allowed if initial declaration before 13 Dec 2018) 7. Place of Birth (Country)\n Documentary evidence required for country change 8. Mother Details\n Firsttime addition: Scanned images of mother and sibling ID cards\n Minor change: Scanned mother and sibling ID cards\n Complete change: Scanned MNIC (Rg1/Rg3), old Bform, or old Pakistani Passport 9. Mother Language, Mark of ID, Qualification, Profession, Contact, Relative Details\n No document required 10. Disability\n Blind, Physical Disability, Mentally Retarded, Hearing Impaired\n Disability certificate from NCRDP/PCRDP or social welfare authority required NICOP CANCELLATION Purpose:\nTo cancel an existing NICOP due to nationality change, dual nationality, or death. Documents Required: 1. For nationality change (nondual country):\n Original NICOP + Renunciation Certificate OR Valid foreign passport 2. If not formally renounced Pakistani nationality:\n Apply via Pakistani Consulate or IMPASS to renounce nationality 3. Deceased Family Member:\n Cut image of deceased ID into two pieces\n Death Certificate of deceased\n Affidavit/Undertaking confirming death MINOR REGISTRATION / FIRSTTIME NICOP Purpose:\nFor minors (under 18) or adults registering for NICOP for the first time. Documents Required: 1. Minors (up to 18 years)\n BForm OR Detailed Birth Certificate OR S1 Form issued by Pak Mission OR Citizenship Certificate OR Pakistani Passport\n Foreign/Pakistani passport/Resident card/PR card/Travel Document (3year exemption for minors born abroad)\n Scanned images of CNIC/NICOP of parent/sibling/grandparents 2. Applicants 18+ registering for the first time\n BForm OR Detailed Birth Certificate OR A/O Level OR Matric OR MNIC OR Domicile OR Citizenship Certificate OR any passport as proof of birth and parentage\n Scanned CNIC/NICOP of parents/immediate blood relatives OR Undertaking with 2 witnesses + scanned IDs and passports of witnesses\n If married: Nikahnama OR Marriage Certificate OR Affidavit attested by Pak Mission/notarized EXPEDITING NICOP APPLICATION",
+        "tokens": 300,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "general_regulations_012"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_GENERAL.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "general_regulations_014",
+    "router": {
+      "domain": "general",
+      "group": "regulations"
+    },
+    "content": {
+      "en": {
+        "text": "1. Minors (up to 18 years)\n BForm OR Detailed Birth Certificate OR S1 Form issued by Pak Mission OR Citizenship Certificate OR Pakistani Passport\n Foreign/Pakistani passport/Resident card/PR card/Travel Document (3year exemption for minors born abroad)\n Scanned images of CNIC/NICOP of parent/sibling/grandparents 2. Applicants 18+ registering for the first time\n BForm OR Detailed Birth Certificate OR A/O Level OR Matric OR MNIC OR Domicile OR Citizenship Certificate OR any passport as proof of birth and parentage\n Scanned CNIC/NICOP of parents/immediate blood relatives OR Undertaking with 2 witnesses + scanned IDs and passports of witnesses\n If married: Nikahnama OR Marriage Certificate OR Affidavit attested by Pak Mission/notarized EXPEDITING NICOP APPLICATION Purpose:\nTo upgrade an existing NICOP application from Normal/Urgent to Executive for faster processing. Steps to Expedite:\n1. Login to Pak ID account\n2. Accept terms and select S/CNICS/NICOP tab\n3. Click “I want to expedite my application”\n4. Enter Tracking ID and press “Next”\n5. Pay additional fee via credit card\n6. Receive autogenerated acknowledgment from NADRA CONTACT INFORMATION For general queries or assistance:\n NADRA Public Inquiry Service (Available 24/7)\n Phone: +92 51 111 786 100\n Email: csd@nadra.gov.pk\n Helpline (Mobile): 1777\n Website: https://www.nadra.gov.pk",
+        "tokens": 192,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "general_regulations_013"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_GENERAL.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_001",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Digital Identity Regulations S.R.O. 1956 of 2025 CNIC Services The Government of Pakistan, through the Ministry of Interior and the National Database and Registration Authority (NADRA), has issued the Digital Identity Regulations, 2025 under the powers conferred by Section 45 of the National Database and Registration Authority Ordinance, 2000. These regulations extend to the whole of Pakistan and come into force upon their publication in the Official Gazette. Chapter I – Preliminary\nShort Title and Commencement These regulations may be called the NADRA Digital Identity Regulations, 2025. Definitions For the purposes of these regulations, unless the context otherwise requires: Authentication refers to the process of confirming an individual’s legal identity by matching credentials such as passwords, PINs, tokens, or biometric data against stored identity records. Authentication Service means a service provided by NADRA to verify identity data, demographic information, or biometric information of a Digital ID user and return a confirmation response or electronic Know Your Customer (e-KYC) data. Authority refers to the National Database and Registration Authority established under the NADRA Ordinance, 2000, which is responsible for issuing, renewing, regulating, and maintaining Digital Identity credentials. Alien Requesting Entity means any foreign individual, organization, or government agency that is not registered under the laws of Pakistan and seeks access to identity verification or authentication services. Biometric Data includes personal data resulting from technical processing of physical or behavioral characteristics such as fingerprints, facial recognition data, and iris scans. Card refers to the Computerized National Identity Card (CNIC) and National Identity Card for Overseas Pakistanis (NICOP), excluding Pakistan Origin Card and Alien Registration Card.",
+        "tokens": 263,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": false,
+      "overlap_with": [],
+      "overlap_ratio": 0.0
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_002",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Biometric Data includes personal data resulting from technical processing of physical or behavioral characteristics such as fingerprints, facial recognition data, and iris scans. Card refers to the Computerized National Identity Card (CNIC) and National Identity Card for Overseas Pakistanis (NICOP), excluding Pakistan Origin Card and Alien Registration Card. Consent means a freely given, specific, informed, and unambiguous indication by an individual, or their guardian, agreeing to the processing of personal data for a defined purpose. Broad or vague terms of use do not constitute valid consent. Citizen means a Pakistani national who has attained the age of eighteen years, including both resident and non-resident citizens. Data refers to any personal, non-personal, or aggregated information collected, processed, stored, or transmitted by NADRA, whether in electronic or physical form. Data Breach means unauthorized access, disclosure, alteration, destruction, or loss of data. Digital Identity (Digital ID) refers to legally verifiable digital credentials issued by NADRA to eligible individuals with verified biometrics, enabling access to digital services and transactions. Digital Vault is a secure and encrypted repository under the control of the citizen for storing and sharing digital credentials and records. Electronic Know Your Customer (e-KYC) is an electronic verification service provided by NADRA using biometric data or one-time passwords to authenticate identity and issue verifiable credentials. National Data Exchange Layer (NDEL) is a secure digital framework that facilitates standardized data sharing among government entities while preserving data ownership and privacy. National Data Warehouse (NDW) refers to databases maintained by NADRA under Section 7 of the Ordinance. Requesting Entity means an agency that submits identity data for authentication or verification. Single Sign-On (SSO) allows a user to access multiple related systems after a single authentication, as defined under international standards.",
+        "tokens": 286,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_001"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_003",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Requesting Entity means an agency that submits identity data for authentication or verification. Single Sign-On (SSO) allows a user to access multiple related systems after a single authentication, as defined under international standards. User refers to a citizen who possesses and uses a Digital ID for identity verification and access to services. Chapter II – Regulation of Digital Identity\nIssuance and Regulation NADRA shall regulate, maintain, and issue Digital IDs to eligible citizens possessing valid identity cards and verifiable biometrics upon request. Terms and Conditions A Digital ID may be suspended if the user no longer meets eligibility criteria or if the underlying identity card expires or is blocked. Reactivation is subject to renewal or unblocking of the card. User Onboarding Citizens must onboard through NADRA’s official mobile application by completing registration and verification steps. Identity verification may include personal details, biometric data, email address, and mobile number. Chapter III – Accessibility and Security\nAccessibility for Persons with Disabilities NADRA shall ensure that Digital ID systems are accessible to persons with disabilities. Public and private entities integrating Digital ID services must provide reasonable accommodations and assistive support. Multilingual Accessibility Digital ID services shall be available in Urdu, English, and other regional languages as specified by the Constitution. Users shall be provided with a clear option to select their preferred language. Chapter IV – Consent and Data Protection\nConsent Notice Before accessing personal data for authentication or verification, requesting entities must inform users about: The type and purpose of data being collected The legal grounds and duration of data processing Disclosure to third parties, if applicable Assurance that cross-border data transfer will not occur without explicit consent Chapter III – Consent Management and Data Security\nData Sharing",
+        "tokens": 286,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_002"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_004",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Disclosure to third parties, if applicable Assurance that cross-border data transfer will not occur without explicit consent Chapter III – Consent Management and Data Security\nData Sharing User data shall not be disclosed by any third party without the explicit written consent of the Authority. Data sharing must occur through secure and encrypted channels, ensuring confidentiality, integrity, and protection against unauthorised access, tampering, or cyber threats. Requesting entities must strictly comply with prohibitions related to biometric data as outlined in the Data Sharing Regulations. Data Security Requesting entities must ensure that all data centres, cloud storage facilities, servers, and information systems used for handling user data or authentication services are located within Pakistan. All NADRA-issued identifiers, including card numbers, must be stored exclusively within a designated encrypted vault. Such identifiers must not be replicated or stored in any other database. The vault must use strong encryption standards, role-based access controls, and maintain comprehensive audit logs in compliance with applicable laws. All onboarded requesting entities must comply with NADRA’s data security regulations, policies, standards, specifications, and guidelines issued from time to time. Chapter IV – Single Sign-On Mechanism\nScope and Eligibility NADRA shall provide Single Sign-On (SSO) authentication services to onboarded requesting entities to confirm that a user is a verified citizen. To be eligible for SSO: The user must complete onboarding through NADRA’s official mobile application. The user must possess a valid Digital ID issued after successful verification. User Consent for SSO When a user attempts to access an online service using SSO, they shall be prompted to provide explicit and informed consent authorising the sharing of limited profile data with the requesting entity. Consent notices must be provided in English, Urdu, or any other language specified under the Constitution, with a clear option for language selection. Security Compliance",
+        "tokens": 299,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_003"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_005",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "When a user attempts to access an online service using SSO, they shall be prompted to provide explicit and informed consent authorising the sharing of limited profile data with the requesting entity. Consent notices must be provided in English, Urdu, or any other language specified under the Constitution, with a clear option for language selection. Security Compliance Strong authentication mechanisms, including multi-factor authentication, encryption, and secure transmission channels, must be implemented to protect user data. Any tampering or data breach involving the SSO mechanism shall be subject to penalties under applicable regulations. Limited Disclosure of Verified Profile Data Upon successful SSO authentication, only the following verified attributes may be shared with requesting entities: First name Last name Verified card number Mobile number verified via OTP Email address verified via OTP Suspension of SSO NADRA may suspend SSO access in cases of fraud, security breaches, or regulatory violations. Users shall be notified promptly of any suspension. Chapter V – Online and Offline Verification Services\nTypes of Authentication Services NADRA shall provide the following authentication services: Online authentication using verifiable credentials through secure public key infrastructure. Yes or No authentication responses based on identity matching. Electronic Know Your Customer (e-KYC) authentication using multi-factor or biometric verification. Offline Verification Offline verification services shall include QR code-based verification. Requesting entities must follow specifications issued by NADRA. Users may download QR codes or digital IDs through NADRA’s official mobile application. Notification and Acknowledgement Requesting entities must notify users of the success or failure of each authentication request. Notifications may be provided via email, SMS, secure digital channels, or written acknowledgement. Notifications must include: Name of the requesting entity Date and time of authentication Authentication response Purpose of authentication",
+        "tokens": 283,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_004"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_006",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Name of the requesting entity Date and time of authentication Authentication response Purpose of authentication In case of authentication failure, users must be informed clearly of the reason, such as suspended Digital ID, biometric mismatch, or locked credentials. Storage and Retention of Authentication Data NADRA shall store authentication transaction data, including card numbers and authentication request details. Minimum transaction logs shall be retained indefinitely in accordance with applicable electronic transaction laws. Chapter VI – Onboarding and Responsibilities of Requesting Entities\nOnboarding Requesting entities must obtain onboarding approval from NADRA before performing authentication or verification functions. Onboarding terms include duration, renewal, fees, suspension, and procedural requirements as notified by the Authority. Roles and Responsibilities Onboarded requesting entities must: Obtain valid digital certificates from accredited certification authorities. Maintain secure infrastructure and approved technologies. Establish secure connectivity through the National Data Exchange Layer. Conduct regular audits and comply with NADRA’s technical standards. Cooperate fully in investigations related to fraud or disputes. Immediately report any suspected misuse, breach, or compromise of systems. Not store Digital ID credentials under any circumstances. Chapter VII – Digital Vault Management A secure, access-controlled Digital Vault shall be provided for users to store and manage Digital ID-related data and verifiable credentials. Users shall retain exclusive control over their data, including selective disclosure. The Digital Vault must comply with data protection and cybersecurity standards and incorporate strong encryption and authentication mechanisms. Chapter VIII – Security Obligations and Cyber Incident Response All personnel involved in Digital ID operations must comply with information security policies and protocols. Security breaches or unauthorised disclosures shall be subject to enforcement action. In the event of cyber incidents, NADRA shall initiate incident reporting, response, investigation, and remediation procedures. Cyber incidents must also be reported to relevant national CERT authorities.",
+        "tokens": 293,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_005"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_007",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "The Digital Vault must comply with data protection and cybersecurity standards and incorporate strong encryption and authentication mechanisms. Chapter VIII – Security Obligations and Cyber Incident Response All personnel involved in Digital ID operations must comply with information security policies and protocols. Security breaches or unauthorised disclosures shall be subject to enforcement action. In the event of cyber incidents, NADRA shall initiate incident reporting, response, investigation, and remediation procedures. Cyber incidents must also be reported to relevant national CERT authorities. Onboarded requesting entities must report cybersecurity incidents within one business day and provide detailed incident information, remediation actions, and law enforcement involvement if applicable. Chapter IX – Miscellaneous\nConfidentiality All confidential Digital ID-related documents, systems, and processes must be protected. Disclosure is limited to authorised parties only. Unauthorised sharing of confidential information shall result in enforcement action. Authority Powers NADRA may issue clarifications, guidelines, policies, standards, directives, and procedures to ensure effective implementation of these regulations. Delegation The Authority may delegate powers to designated officers or staff while retaining oversight. Review and Severability These regulations shall be reviewed periodically. If any provision is held invalid, the remaining provisions shall continue to remain in force. Fingerprint Guidelines Pak-ID Application System When applying fingerprints on paper, do not roll the fingers. Place fingerprint impressions lightly using an inkpad in the designated areas. Ensure that fingerprints are clear and not smudged. If fingerprints are smudged, reprint the verifier form and apply fingerprints again. Fingerprints must be placed in the correct sequence as indicated on the form. The form must be filled completely, and all information provided must be accurate. Providing false information or fake documents may result in legal proceedings against the applicant.",
+        "tokens": 280,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_006"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_008",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "When applying fingerprints on paper, do not roll the fingers. Place fingerprint impressions lightly using an inkpad in the designated areas. Ensure that fingerprints are clear and not smudged. If fingerprints are smudged, reprint the verifier form and apply fingerprints again. Fingerprints must be placed in the correct sequence as indicated on the form. The form must be filled completely, and all information provided must be accurate. Providing false information or fake documents may result in legal proceedings against the applicant. After completing the form, scan it properly. The form must be scanned at a resolution of 600 DPI using grayscale mode. The resolution should not be increased artificially through software. Save the scanned file in JPG or JPEG format. The maximum allowed file size for upload is 10 MB. Ensure the file size does not exceed this limit before uploading. Fingerprints can also be captured through the Pak-ID mobile application. Examples of unacceptable fingerprint captures include tilted impressions, fingerprints outside the designated box, inverted fingers, excessive ink, and blurred impressions. Amputated fingers should be reported accordingly. Media Brief Family Registration Certificate (FRC) and National Identity System Reforms The National Database and Registration Authority (NADRA), with approval from the Federal Cabinet, has introduced amendments to the National Identity Card Rules, 2002. These reforms aim to strengthen the national identity system by making it more secure, transparent, integrated, and resistant to fraud. These amendments apply nationwide to NADRA’s identity and family record systems. Since NADRA’s establishment in 2000, no major revisions had been made to the 2002 rules, making reforms necessary to meet current and future requirements. Reforms in Child Registration (B-Form) Under the revised rules, issuance of a child registration certificate (B-Form) without registration at the Union Council will no longer be permitted.",
+        "tokens": 293,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_007"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_009",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Reforms in Child Registration (B-Form) Under the revised rules, issuance of a child registration certificate (B-Form) without registration at the Union Council will no longer be permitted. Children up to three years of age are exempt from biometric data and photographs. For children aged three to ten years, a photograph is mandatory and iris scanning may be conducted where available. For children aged ten to eighteen years, both biometric data and photographs are mandatory, along with iris scanning where facilities exist. Each child will now be issued a separate B-Form with a mandatory expiry date. Fees have not been increased, and previously issued B-Forms remain valid. However, children applying for passports must obtain the new B-Form. These measures will improve child identification, increase transparency in registration, enhance birth registration at Union Councils, and prevent identity fraud and child trafficking. Reforms in Family Registration Certificate (FRC) The Family Registration Certificate has now been granted legal status. Applicants must submit a sworn declaration confirming the accuracy of family information provided. FRCs will be issued strictly based on NADRA’s existing records. Individuals cannot obtain an FRC by providing unverified or self-declared information. Family members such as parents, spouse, siblings, and children will be included in a single certificate. Citizens are required to ensure that unregistered family members are added to the NADRA database. Corrections to family records can be made through NADRA offices or online services. False information may result in legal action. These reforms will ensure accuracy of records and prevent misuse of family data. Identification Facilities for Married Women Married women are now allowed to choose whether their father’s name or husband’s name appears on their identity card. Seizure, Verification, Restoration, and Cancellation of Identity Documents",
+        "tokens": 285,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_008"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_010",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Married women are now allowed to choose whether their father’s name or husband’s name appears on their identity card. Seizure, Verification, Restoration, and Cancellation of Identity Documents Revised rules introduce a structured and lawful process for verification, seizure, suspension, and cancellation of identity documents to combat fraud. Verification boards at district, regional, and headquarters levels are required to decide cases within 30 days. Identity cards, B-Forms, and certificates may be seized or cancelled where necessary. These reforms ensure timely decisions and reduce misuse of identity documents. Non-Chip National Identity Card Improvements In addition to smart cards, NADRA issues a non-chip identity card with enhanced features. The card now includes bilingual information in Urdu and English, fingerprints, and a QR code instead of embedded biometrics. This card is cheaper than the smart card and is issued faster. Processing timelines are approximately 15 days for normal, 12 days for urgent, and 6 days for executive categories. This option improves accessibility for citizens unable to afford smart cards. Voluntary Disclosure of Incorrect Identity Information Citizens who have knowingly or unknowingly obtained identity documents using incorrect information are encouraged to report voluntarily to NADRA. Voluntary disclosure provides legal protection, while failure to report may result in legal action if fraud is discovered. Definitions Introduced in the Rules Biometrics refers to personal data derived from physical or behavioral characteristics such as facial images, fingerprints, and iris scans used for unique identification. Impounding refers to temporary suspension of an identity card or related data for investigation. Confiscation refers to permanent seizure of an identity card or data to prevent further use. Cancellation refers to permanent invalidation of identity documents. Family Registration Certificate (FRC) is a legal document issued by NADRA confirming the registered family structure of an individual. Family structures include: Alpha family: parents and siblings",
+        "tokens": 300,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_009"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_011",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Family Registration Certificate (FRC) is a legal document issued by NADRA confirming the registered family structure of an individual. Family structures include: Alpha family: parents and siblings Beta family: spouse and children Gamma family: guardian and wards An intruder refers to a person incorrectly or unlawfully included in a family record. Amendments to NADRA (NIC) Rules, 2002 – January 2025 Under the amended rules, disabled citizens may be issued identity cards with disability logos and lifetime validity. Minor citizens with disabilities will receive certificates or cards with prescribed validity periods. Citizens registered as organ donors may be issued identity cards displaying donor logos. Disabled organ donors may receive combined cards reflecting both statuses. New card formats have been introduced through additional schedules for resident and non-resident Pakistanis. Amendments to NADRA (National Identity Card) Rules, 2002 CNIC Services The Government of Pakistan, Ministry of Interior, issued amendments to the National Database and Registration Authority (National Identity Card) Rules, 2002 under S.R.O. 1099(I) of 2025, exercising powers under Section 44 of the NADRA Ordinance, 2000. Definitions Updated in Rule 2 Alpha Family includes the registered person’s father, mother, sisters, and brothers. Authorized Officer means an officer authorized under Section 18 of the NADRA Ordinance. Beta Family includes the registered person’s spouse and children. Biometrics means personal data resulting from technical processing of physical or behavioral characteristics that allow unique identification, such as facial images and fingerprints. Cancellation refers to permanent invalidation of a card or its associated data, rendering it unusable for any purpose. Certificate means any document issued by NADRA in physical or digital form under these rules. Confiscation means seizing and invalidating an individual’s card and restricting access to related personal data. Digitally Marked refers to embedding traceable metadata in the citizen database for verification purposes.",
+        "tokens": 296,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_010"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_012",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Certificate means any document issued by NADRA in physical or digital form under these rules. Confiscation means seizing and invalidating an individual’s card and restricting access to related personal data. Digitally Marked refers to embedding traceable metadata in the citizen database for verification purposes. Family refers to an alpha, beta, or gamma family of a registered person. Family Composition Data means data related to the family structure of a registered person. Family Registration Certificate (FRC) is a certificate issued by NADRA that verifies and records family composition data. Gamma Family includes a guardian or ward of a registered person. Impounding means temporary suspension of a card or its data pending verification or corrective action. Intruder refers to a person unlawfully included in a registered person’s family composition data. Registered Person means a person registered under the NADRA Ordinance. Ward has the same meaning as defined under the Guardians and Wards Act, 1890. Amendments to Issuance and Registration Rules Married women may choose whether their identity card displays their father’s name or husband’s name. Separate child registration certificates shall be issued for each child.\nFor children aged three to ten years, biometric data such as iris scans and photographs may be included.\nFor children aged ten to eighteen years, biometric data is mandatory. Family Registration Certificate (FRC) NADRA may issue a Family Registration Certificate to a registered person in the prescribed format. The FRC serves as legal proof of family composition data held by NADRA at the time of issuance. The FRC does not expire but remains valid only as long as family composition data remains unchanged. NADRA may reissue an updated certificate upon request if changes occur.",
+        "tokens": 277,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_011"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_013",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Family Registration Certificate (FRC) NADRA may issue a Family Registration Certificate to a registered person in the prescribed format. The FRC serves as legal proof of family composition data held by NADRA at the time of issuance. The FRC does not expire but remains valid only as long as family composition data remains unchanged. NADRA may reissue an updated certificate upon request if changes occur. Applications for FRC must be submitted with biometric verification. NADRA may verify applicant and family member details before issuance and notify applicants of any discrepancies for correction. Verification Boards and Their Powers NADRA shall establish verification boards at zonal, regional, and headquarters levels. These boards have authority to verify, clear, impound, cancel, or confiscate identity cards and certificates. Verification boards may request supporting evidence, including: Previously issued identity cards Certified land or domicile records Government employment certificates Educational records Passports or citizenship certificates Boards must complete hearings and decisions within thirty days of proceedings. Digitally Marked and Impounded Data NADRA may digitally mark a person’s data after recording reasons in writing and providing an opportunity to explain. If explanations are unsatisfactory, data may remain digitally marked until corrective action is taken or a decision is reached by the verification board. Proceedings Under Section 18 of the Ordinance Verification boards may initiate proceedings for return, cancellation, impounding, or confiscation of identity documents. Individuals must be served written notices and given an opportunity to respond and appear for hearings. Decisions must be reasoned and issued within thirty days of the hearing. Appeals may be filed with the Federal Government within the prescribed time. Removal of Intruder from Family Record A family head may request removal of an intruder from family records by submitting an affidavit. NADRA may segregate the intruder’s data and initiate verification proceedings.",
+        "tokens": 298,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_012"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_014",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Decisions must be reasoned and issued within thirty days of the hearing. Appeals may be filed with the Federal Government within the prescribed time. Removal of Intruder from Family Record A family head may request removal of an intruder from family records by submitting an affidavit. NADRA may segregate the intruder’s data and initiate verification proceedings. Cases involving biometric verification by blood relatives or matters pending before courts shall not be processed under this provision. Declaration of Ineligibility If a person voluntarily declares ineligibility for holding an identity card or certificate, NADRA may confiscate and cancel the document and impound the associated data immediately. Identity Card Formats and Schedules Updated schedules introduce revised formats for: Computerized National Identity Cards Child Registration Certificates Family Registration Certificates Sample card layouts and certificate formats are prescribed in the schedules and used for issuance purposes only. Family Registration Certificate (FRC) The Family Registration Certificate is issued by the National Database and Registration Authority (NADRA) to confirm and verify the registered family composition of an individual. The certificate may be issued on the basis of: Birth Marriage Adoption The FRC certifies that the family members listed are registered with NADRA. Any unregistered family members may also be included based on details provided by the applicant under oath to an authorized NADRA officer. The applicant must solemnly affirm that all family information provided is accurate and that no information has been concealed. False declarations may result in legal action. The FRC is verifiable online or through the Pak-ID application. Amendments to NADRA (National Identity Card) Rules, 2002\nUpdated Definitions Alpha Family includes a registered person’s father, mother, sisters, and brothers.\nBeta Family includes a registered person’s spouse and children.\nGamma Family includes the guardian or ward of a registered person.",
+        "tokens": 294,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_013"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_015",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "The applicant must solemnly affirm that all family information provided is accurate and that no information has been concealed. False declarations may result in legal action. The FRC is verifiable online or through the Pak-ID application. Amendments to NADRA (National Identity Card) Rules, 2002\nUpdated Definitions Alpha Family includes a registered person’s father, mother, sisters, and brothers.\nBeta Family includes a registered person’s spouse and children.\nGamma Family includes the guardian or ward of a registered person. Biometrics refers to personal data derived from physical or behavioral characteristics such as facial images, fingerprints, or iris scans used for identification. Cancellation means permanent invalidation of an identity card or associated data.\nConfiscation means seizure and invalidation of a card and restriction of access to related data.\nImpounding means temporary suspension of a card or data pending verification or corrective action.\nDigitally Marked refers to tagging data in the NADRA database for verification or investigation. Issuance of Family Registration Certificate NADRA may issue a Family Registration Certificate to a registered person in the prescribed format. The certificate: Serves as legal proof of family composition data held by NADRA at the time of issuance Does not expire but remains valid only if family data remains unchanged May be reissued if family composition changes Applications must include biometric verification. NADRA may verify applicant and family member data before issuance and allow corrections where discrepancies are found. Verification Boards NADRA establishes verification boards at zonal, regional, and headquarters levels. These boards have authority to: Verify identity data Clear, impound, cancel, or confiscate identity cards and certificates Call for evidence including prior identity documents, land records, domicile certificates, educational records, passports, and citizenship certificates Boards must conclude proceedings and issue decisions within thirty days. Digitally Marked and Impounded Data",
+        "tokens": 293,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_014"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_016",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Call for evidence including prior identity documents, land records, domicile certificates, educational records, passports, and citizenship certificates Boards must conclude proceedings and issue decisions within thirty days. Digitally Marked and Impounded Data NADRA may digitally mark a person’s data after recording reasons and providing an opportunity to respond. If explanations are unsatisfactory: Data may remain digitally marked Corrective action may be required The matter may be referred to a verification board Impounding of data may occur during proceedings. Proceedings Under Section 18 of the NADRA Ordinance Verification boards may initiate proceedings for: Clearance Cancellation Impounding Confiscation of cards or certificates Affected persons must receive written notice and an opportunity to be heard. Hearings may be conducted digitally where necessary. Decisions must be reasoned and issued within thirty days. Appeals may be filed with the Federal Government within the prescribed period. Removal of Intruder from Family Record The head of a family may request removal of an intruder by submitting an affidavit confirming correct family composition. NADRA may segregate the intruder’s data and initiate verification proceedings. Cases involving biometric verification by blood relatives or matters pending before courts are excluded from this process. Declaration of Ineligibility If a person voluntarily declares that an identity card or certificate was obtained without eligibility: The document may be confiscated and cancelled immediately Associated data may be impounded A receipt for surrendered documents may be issued upon request NADRA (National Data Repository) Regulations, 2024\nEstablishment of National Data Repository (NDR) The National Data Repository functions as a centralized data repository built upon the National Data Warehouse. It enables data integration and sharing among government entities and authorized agencies for lawful purposes including governance, planning, development, identification, and security. NDR Team An NDR Team is constituted to manage and oversee the repository. It includes:",
+        "tokens": 298,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_015"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_017",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "A receipt for surrendered documents may be issued upon request NADRA (National Data Repository) Regulations, 2024\nEstablishment of National Data Repository (NDR) The National Data Repository functions as a centralized data repository built upon the National Data Warehouse. It enables data integration and sharing among government entities and authorized agencies for lawful purposes including governance, planning, development, identification, and security. NDR Team An NDR Team is constituted to manage and oversee the repository. It includes: Head of the NDR Team Members from NADRA Representatives of user or feeder agencies Secretary to the Team The Team reports to the NADRA Authority and submits periodic performance reports. Functions of the NDR Team The NDR Team is responsible for: Developing data sharing policies and SOPs Ensuring data security and confidentiality Managing data import and sharing Coordinating with user and feeder agencies Monitoring compliance and security controls Authorized Entities and Data Sharing Entities seeking access to data must apply in writing and demonstrate necessity and legal compliance. Upon approval: A Data Sharing Agreement is executed Data use is limited to approved purposes Security, confidentiality, and retention obligations apply Data subject consent is not required for data sharing under the Ordinance, but privacy protections must be upheld. Data Security and Retention Authorized entities must: Implement technical and organizational safeguards Retain data only for the approved duration Dispose of data securely after expiry Report any data breaches or security incidents NADRA may terminate data sharing agreements for misuse or non-compliance. NADRA (Pakistan Origin Card) Rules, 2002\nEligibility An eligible foreigner of Pakistan origin includes individuals who: Were previously citizens of Pakistan Have qualifying parents or grandparents Are married to a Pakistani citizen (subject to conditions) Eligible family members include spouses, parents, grandparents, children, and grandchildren, subject to nationality restrictions. Registration and Issuance",
+        "tokens": 296,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_016"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_018",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "An eligible foreigner of Pakistan origin includes individuals who: Were previously citizens of Pakistan Have qualifying parents or grandparents Are married to a Pakistani citizen (subject to conditions) Eligible family members include spouses, parents, grandparents, children, and grandchildren, subject to nationality restrictions. Registration and Issuance Eligible applicants may apply for registration and issuance of a Pakistan Origin Card. NADRA may require evidence to verify eligibility. Cards grant benefits including: Visa-free entry into Pakistan Right to stay during card validity Exemption from foreigner registration Ability to open bank accounts and purchase property Use of the card as proof of identity Cancellation and Confiscation Cards may be cancelled, impounded, or confiscated if: The holder becomes ineligible The card poses security or public interest concerns The holder is convicted of serious offences Pakistan Origin Card (POC) – Amendments\nAmendment (December 30, 2015) Foreign spouses born to Pakistani parents and married to a Pakistani citizen are eligible for Pakistan Origin Card for the duration of the marriage, subject to approval by the Federal Government. Rule 5 was amended to clarify that eligible spouses must be born of Pakistani father and mother. Amendment (August 5, 2019) Rule 17 of the Pakistan Origin Card Rules, 2002 was amended to remove redundant wording in clause (e). No change in eligibility or benefits was introduced. NADRA Employees (Service) Regulations – Discipline Framework\nAppellate & Disciplinary Authority Structure BS-19 and above Authorized Officer: Chairman Authority: HR Committee of NADRA Appellate Authority: Authority Board BS-16 to BS-18 Authorized Officer: Director General Authority: Concerned Member / Finance Appellate Authority: Chairman NADRA BS-15 and below Authorized Officer: Director Authority: Director General Appellate Authority: Chairman NADRA NIC Application Regulations – Amendments (2020 & 2023)\nData Acquisition Units (DAU) DAUs include: NADRA Registration Centers (NRC) Mobile Registration Vans (MRV) Semi-Mobile Units Motorcycle Units",
+        "tokens": 299,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_017"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_019",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Appellate Authority: Chairman NADRA NIC Application Regulations – Amendments (2020 & 2023)\nData Acquisition Units (DAU) DAUs include: NADRA Registration Centers (NRC) Mobile Registration Vans (MRV) Semi-Mobile Units Motorcycle Units Manpack Units Mobile Registration Cars Overseas Registration Facilities Application & Fee Submission NADRA may accept applications and fees: In Pakistan or abroad Physically or electronically Before or after form submission Receipts may be issued at fee deposit stage. Religion Declaration Applicants declaring religion other than Islam must submit a formal declaration as prescribed. Biometrics & Photographs NADRA may collect biometric data (photo, fingerprints, iris) using advanced or manual methods. Photographs may be required separately where biometric capture is not available. Regulation 13 (Omitted – 2023) Regulation 13(1) of the NIC Application Regulations, 2002 was formally omitted. NADRA Hiring Policy for Official Accommodation (2017)\nScope Applies to hiring of buildings for: NADRA Headquarters Regional Head Offices Registration Centers Mobile Units All previous policies stand repealed. Approval Process Principle approval required from Chairman NADRA Requirements must include: Covered area Location (non-residential) Rental cost Accessibility Utilities Security Parking Renovation needs Bidding Process Public advertisement in two newspapers Single-stage, two-envelope bidding: Technical Proposal Financial Proposal Lowest evaluated rent per square foot is selected. Rent Ceilings HQ / Regional Cities: up to PKR 200 per sqft District HQs: up to PKR 80 per sqft Tehsil / Other Cities: up to PKR 50 per sqft Lease Conditions 6 months advance + 1 month security Lease duration preferably 10 years Annual rent increase capped at 10% Termination with 3 months notice Renovation cost affects termination rights Signing Authority RHO level: Director Admin HQ level: Director Estate NADRA Services Charter (2024)\nCore Mandate NADRA is responsible for: Registration of persons and things Issuance of identity documents Maintenance of National Data Warehouse (NDW) Biometric identity management",
+        "tokens": 297,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_018"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_020",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Termination with 3 months notice Renovation cost affects termination rights Signing Authority RHO level: Director Admin HQ level: Director Estate NADRA Services Charter (2024)\nCore Mandate NADRA is responsible for: Registration of persons and things Issuance of identity documents Maintenance of National Data Warehouse (NDW) Biometric identity management Verification and e-KYC services NADRA Identity Products CNIC (Residents) NICOP (Overseas Pakistanis) Smart CNIC Juvenile Card Child Registration Certificate (CRC) Family Registration Certificate (FRC) Pakistan Origin Card (POC) Alien Registration Card (ARC) Registration Process (Simplified) Token issuance at DAU Fee payment Biometric capture Demographic data entry Applicant verification Interview (if required) Application submission Eligibility Overview CNIC: Pakistani citizens (18+) Juvenile / CRC: Pakistani citizens (under 18) NICOP: Non-resident Pakistanis POC: Eligible foreigners of Pakistani origin ARC: Foreign nationals residing in Pakistan Providing false information is a criminal offense under NADRA Ordinance. Validity of Cards CNIC / NICOP: 10 years Juvenile Card: Until age 18 POC: 7 years Lifetime validity if renewed at age 53+ Verification Services (E-KYC)\nBIOSYS Fingerprint-based verification Used by banks, EMIs, NADRA counters VERISYS CNIC / NICOP / POC number verification Government & regulated institutions SMS Services CNIC tracking Family verification Voting verification Health & welfare eligibility Complaint & Grievance Handling NADRA Complaint Portal 24/7 Call Center (1777 / 051-111-786-100) Walk-in NRC complaints PMDU escalation Over 90% complaints resolved within 7 days. Core Values Integrity Accuracy Accountability Security Inclusivity Efficiency Rights of Applicants Timely service Data accuracy Transparency Privacy Grievance redressal Accessibility for special needs Responsibilities of Applicants Provide accurate information Update changes Protect ID cards Avoid fraud NADRA Services Charter & NDEL Regulations\nCleaned & RAG-Ready Text\n9.5. Khuli E-Kacheri (Open Forums)",
+        "tokens": 274,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_019"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_021",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Efficiency Rights of Applicants Timely service Data accuracy Transparency Privacy Grievance redressal Accessibility for special needs Responsibilities of Applicants Provide accurate information Update changes Protect ID cards Avoid fraud NADRA Services Charter & NDEL Regulations\nCleaned & RAG-Ready Text\n9.5. Khuli E-Kacheri (Open Forums) Khuli E-Kacheri are public grievance forums where the Chairman of NADRA and Regional Registration Officers (RROs) directly engage with citizens. These forums are conducted monthly through phone calls and social media platforms to address public complaints and service-related concerns. 9.6. Social Media Engagement NADRA maintains active engagement with citizens through the following official platforms: Facebook: NadraPakistan Twitter (X): Nadra Pak Email: csd@nadra.gov.pk WhatsApp Channel: Official NADRA WhatsApp channel (as notified by NADRA) These platforms are used for public awareness, updates, and grievance facilitation. 9.7. Contact Points\n9.7.1 Regional Head Offices (RHOs) NADRA Headquarters (Islamabad)\nAddress: State Bank of Pakistan Building, Shahrah-e-Jamhuriat, Sector G-52, Islamabad\nPhone: 051-9208602\nFax: 051-9208618 Regional Head Office Islamabad\nMauve Area, Sector G-10/4, Islamabad\nPhone: 051-9108118 Regional Head Office Lahore\n73-A Trade Centre, Muhammad Ali Johar Town, Lahore\nPhone: 042-99232803 Regional Head Office Karachi\n29-E Miran Muhammad Shah Road, Muhammad Ali Cooperative Housing Society, Karachi\nPhone: 021-34382262 Regional Head Office Peshawar\nHayatabad Phase-V, Peshawar\nPhone: 091-9217287 Regional Head Office Quetta\nNew Zarghoon Road, Quetta\nPhone: 081-9211841 Regional Head Office Multan\n221 Shah Rukn-e-Alam Colony, Multan\nPhone: 061-9220131 Regional Head Office Sukkur\nSindhi Housing Society, Airport Road, Sukkur\nPhone: 071-9310863 9.7.2 Zonal Offices (Summary for RAG) NADRA operates Zonal Offices across all provinces and regions including: Islamabad Capital Territory and surrounding districts Karachi (Central, East, West, Malir, Mega Centers) Lahore Division and Punjab districts Multan Division and South Punjab Peshawar Division and Khyber Pakhtunkhwa Quetta Division and Balochistan Sukkur and Interior Sindh Azad Jammu & Kashmir Gilgit-Baltistan Zonal Offices provide: Registration services Verification services",
+        "tokens": 300,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_020"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_022",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Peshawar Division and Khyber Pakhtunkhwa Quetta Division and Balochistan Sukkur and Interior Sindh Azad Jammu & Kashmir Gilgit-Baltistan Zonal Offices provide: Registration services Verification services Complaint handling Special facilitation (PWDs, seniors, mobile units) (Exact addresses are operational metadata and should be stored as separate reference documents, not embeddings.) National Data Exchange Layer (NDEL) Regulations, 2025\nOverview The National Data Exchange Layer (NDEL) is a secure and interoperable digital framework established by NADRA to enable standardized data sharing between government entities and authorized public or private organizations. These regulations apply throughout Pakistan. Key Definitions (Cleaned) NDEL: Secure platform for standardized data exchange without central data storage. Onboarded Entity: Authorized public or private organization allowed to access NDEL. Digital ID: Verifiable digital identity issued by NADRA. Consent: Explicit, informed, and affirmative permission given by a citizen. Biometric Data: Fingerprints, facial recognition, iris scans. Data Breach: Unauthorized access, disclosure, or loss of data. PKI Certificate: Cryptographic certificate issued by a National Certification Authority. Regulation of NDEL NADRA is responsible for: Operation and maintenance of NDEL Issuing technical standards and protocols Ensuring interoperability, security, and legal compliance Only onboarded entities may access NDEL. Entity Onboarding Process To access NDEL, an entity must: Submit a formal onboarding request Meet technical and security requirements Obtain a PKI certificate Execute required agreements Specify services to be consumed or provided Access is granted through secure APIs, and all transactions are logged. Consent Management Citizen data cannot be shared without explicit consent Consent is obtained through: Digital ID Mobile-based secure confirmation Consent logs are: Cryptographically recorded Time-stamped Auditable Suspension or Revocation of Access NADRA may suspend or revoke NDEL access if an entity: Violates laws or regulations Poses a cybersecurity risk Engages in fraud or misuse Fails compliance or security standards",
+        "tokens": 292,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_021"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_023",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Cryptographically recorded Time-stamped Auditable Suspension or Revocation of Access NADRA may suspend or revoke NDEL access if an entity: Violates laws or regulations Poses a cybersecurity risk Engages in fraud or misuse Fails compliance or security standards Entities must be given a reasonable opportunity to be heard. Data Hosting & Sovereignty All NDEL infrastructure and data must remain within Pakistan Cross-border hosting, mirroring, or processing is prohibited Ensures national data sovereignty and legal compliance Lawful Data Sharing Data sharing through NDEL must: Serve lawful and defined purposes Use minimum required data Be fully auditable Prohibit resale or secondary usage Citizen consent is mandatory except in legally justified cases such as: National security Court orders Criminal investigations Data Breach Notification If a breach occurs: Entity must notify NADRA within 12 hours Must submit: Nature of breach Data affected Consequences Remedial actions Entities must maintain a Data Breach Response Plan Transaction Logs & Audits NADRA maintains logs for API-based access Onboarded entities must: Keep immutable transaction logs Retain logs for 5 years Allow audits by NADRA or certified auditors Audit costs are borne by the entity. NADRA Regulations and Rules\nCleaned Corpus for RAG Use\nPART A: NDEL Security, Compliance, and Enforcement\nSecurity Obligations of Personnel All NADRA personnel involved in the management, operation, or maintenance of the National Data Exchange Layer (NDEL) must comply with information security policies, technical guidelines, standard operating procedures, and security protocols issued by the Authority. In case of a security breach involving personnel, disciplinary action may be taken after providing the concerned individual a reasonable opportunity of hearing. Security Obligations of Onboarded Entities Entities onboarded to NDEL must: Comply with all information security policies and standards issued by NADRA Periodically report compliance status Protect data exchanged through NDEL from unauthorized access, loss, alteration, or disclosure",
+        "tokens": 299,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_022"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_024",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "NADRA Regulations and Rules\nCleaned Corpus for RAG Use\nPART A: NDEL Security, Compliance, and Enforcement\nSecurity Obligations of Personnel All NADRA personnel involved in the management, operation, or maintenance of the National Data Exchange Layer (NDEL) must comply with information security policies, technical guidelines, standard operating procedures, and security protocols issued by the Authority. In case of a security breach involving personnel, disciplinary action may be taken after providing the concerned individual a reasonable opportunity of hearing. Security Obligations of Onboarded Entities Entities onboarded to NDEL must: Comply with all information security policies and standards issued by NADRA Periodically report compliance status Protect data exchanged through NDEL from unauthorized access, loss, alteration, or disclosure Maintain confidentiality of technical and operational information Ensure employees sign non-disclosure agreements Conduct background checks and restrict access to authorized personnel only The Chief Information Security Officer (CISO) oversees security implementation and compliance. Cyber Incident Response by NADRA NADRA must implement robust security controls to protect NDEL from cyber threats.\nIn case of an incident, NADRA shall conduct: Incident reporting Incident response and recovery Investigation and remedial action Cyber Incident Response by Onboarded Entities Onboarded entities must notify NADRA within 12 hours of becoming aware of: Cybersecurity incidents Data breaches Fraud or system compromise Notification must include: Entity name and contact details Affected NDEL services Nature, scope, date, time, severity, and status of the incident Remedial actions taken Law-enforcement referrals, if any Incomplete information may be submitted initially, with remaining details provided within 24 hours. All cyber incidents must also be reported to the relevant Sectoral CERT. PART B: Compliance and Penalties\nCompliance Obligations of Onboarded Entities Onboarded entities must: Maintain approved infrastructure and security standards Use NADRA-approved technologies only Obtain approval before outsourcing NDEL-related operations Cooperate fully in audits and investigations",
+        "tokens": 297,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_023"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_025",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "PART B: Compliance and Penalties\nCompliance Obligations of Onboarded Entities Onboarded entities must: Maintain approved infrastructure and security standards Use NADRA-approved technologies only Obtain approval before outsourcing NDEL-related operations Cooperate fully in audits and investigations Remain responsible for third-party compliance Failure to cooperate constitutes an offence under the NADRA Ordinance. Non-Compliance and Penalties An onboarded entity may face penalties if it: Violates technical or security standards Uses NDEL for unauthorized purposes Fails to provide required information Obstructs audits or investigations Penalties may include suspension or termination after providing an opportunity of hearing.\nUpon termination, all NDEL services and Digital ID branding must cease immediately. Offences and Enforcement Unauthorized access, data misuse, cyber attacks, or fraud involving NDEL systems constitute offences under the Prevention of Electronic Crimes Act, 2016. PART C: Confidentiality and Governance\nConfidentiality All confidential documents, policies, system designs, security protocols, audit reports, and technical details related to NDEL must not be disclosed except with NADRA’s approval. Violation attracts enforcement action under the NADRA Ordinance. Powers of NADRA NADRA may: Issue clarifications and guidelines Issue policies, standards, and directives Delegate powers to authorized officers Periodically review and amend regulations If any provision is held invalid, remaining provisions remain enforceable. PART D: Amendments to NIC Rules (Key Substance Only)\nFamily Definitions Alpha family: Parents, siblings Beta family: Spouse and children Gamma family: Guardian or ward Family Registration Certificate (FRC) NADRA may issue an FRC that: Reflects verified family composition data Is admissible as legal evidence Has no expiry, unless family composition changes Can be reissued upon changes NADRA may require biometric verification of family members. Digitally Marked and Impounded Data NADRA may digitally mark a person’s data where eligibility is in question.\nThe individual must be given an opportunity to explain before marking.",
+        "tokens": 293,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_024"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_026",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Reflects verified family composition data Is admissible as legal evidence Has no expiry, unless family composition changes Can be reissued upon changes NADRA may require biometric verification of family members. Digitally Marked and Impounded Data NADRA may digitally mark a person’s data where eligibility is in question.\nThe individual must be given an opportunity to explain before marking. If unresolved, the matter is referred to a verification board which may: Clear the record Impound, cancel, or confiscate the card Appeal lies with the Federal Government. Verification Boards Verification boards may require historical documents such as: Old CNICs Domicile certificates Land records Passports issued before 1979 Boards have full inquiry powers under the Ordinance. PART E: Non-Lapsable Fund Regulations (Summary)\nEstablishment of NADRA Fund The Fund consists of: Government allocations Service fees Grants and donations Investment income Fund Management Maintained in approved bank accounts Double-entry accounting Audited internally and externally Annual budget approval required Permissible Uses Funds may be used for: Database and IT infrastructure Staff salaries Public awareness Training and research Operational expenses Speculative or unrelated expenses are prohibited. PART F: Procurement Regulations (High-Level)\nObjective To ensure transparent, competitive, efficient procurement aligned with: PPRA Ordinance 2002 Public Procurement Rules 2004 Principles Procurement must follow: Fair competition Value for money Transparency Accountability Confidentiality where required for security NADRA Procurement Regulations 2025 Procurement governance, bidding procedures, contract management, compliance, and grievance redressal under NADRA CLEAN CONTENT (RAG-READY)\n1. Scope and Applicability These regulations apply to all procurement of goods, works, services, and consultancy conducted by NADRA headquarters, regional offices, projects, and NADRA-owned entities. They also apply to procurements financed through NADRA budgets, projects, or donor funds, unless donor agreements mandate alternative procedures approved by the Authority Board. Procurements completed before enforcement remain valid if compliant with prior rules. 2. Core Definitions (Simplified)",
+        "tokens": 300,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_025"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_027",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Value for money Transparency Accountability Confidentiality where required for security NADRA Procurement Regulations 2025 Procurement governance, bidding procedures, contract management, compliance, and grievance redressal under NADRA CLEAN CONTENT (RAG-READY)\n1. Scope and Applicability These regulations apply to all procurement of goods, works, services, and consultancy conducted by NADRA headquarters, regional offices, projects, and NADRA-owned entities. They also apply to procurements financed through NADRA budgets, projects, or donor funds, unless donor agreements mandate alternative procedures approved by the Authority Board. Procurements completed before enforcement remain valid if compliant with prior rules. 2. Core Definitions (Simplified) Authority: National Database and Registration Authority established under NADRA Ordinance, 2000 Bidder: Any person or entity submitting a bid Blacklisted: Entity barred due to fraud, corruption, or serious performance failure Competitive Bidding: Open national or international bidding process Data-Sensitive Procurement: Procurement involving biometric, personal, classified, or national data Framework Agreement: Long-term procurement arrangement with defined terms Most Advantageous Bid: Best evaluated bid based on cost, quality, and compliance Procurement Committee: Oversight body for procurement decisions Undefined terms follow PPRA Rules and NADRA Ordinance. 3. Procurement Governance Structure NADRA’s Procurement Department acts as the central authority for planning, tendering, evaluation coordination, vendor management, and reporting. Standing committees include: Procurement Committee Grievance Redressal Committee Blacklisting Committee All committees operate under approved terms of reference. 4. Planning and Transparency Each NADRA unit must prepare an Annual Procurement Plan (APP) within 30 days of budget approval. The APP includes estimated cost, procurement method, funding source, and timelines. Approved plans are published on NADRA and PPRA websites, subject to classification exceptions. Unplanned procurements require a Supplementary Procurement Plan with justification. Artificial splitting of procurements to bypass thresholds is prohibited. 5. Advertisement and Bidding Open competitive bidding is the default method. Advertisements must: Be published on e-PADS and PPRA",
+        "tokens": 297,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_026"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_028",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Unplanned procurements require a Supplementary Procurement Plan with justification. Artificial splitting of procurements to bypass thresholds is prohibited. 5. Advertisement and Bidding Open competitive bidding is the default method. Advertisements must: Be published on e-PADS and PPRA Appear in national newspapers for procurements above PKR 3 million Allow minimum response time (13 days national, 30 days international) Pre-bid meetings may be conducted for complex procurements. All clarifications and addenda must be published formally. 6. Bid Opening and Evaluation Bids are opened publicly by a Bid Opening Committee. Evaluation follows strictly the criteria published in bidding documents. Evaluation stages include: Preliminary examination Technical evaluation Financial evaluation Post-qualification verification No unpublished criteria may be applied. The Bid Evaluation Report (BER) is published at least 15 days before contract award. 7. Award and Contract Execution Contracts are awarded through a Letter of Acceptance (LOA). Successful bidders must submit performance security, usually up to 10% of contract value. Contracts must be in writing and vetted where necessary. Failure to submit required securities may result in forfeiture and award to the next eligible bidder. 8. Contract Management Each contract is assigned a Contract Manager (CM) responsible for execution, monitoring, inspection, and payments. Key controls include: Inspection and Acceptance Reports Performance guarantees Liquidated damages for delays Variation orders capped at 15% without Chairman approval All payments are made through banking channels only. 9. Procurement Methods Permissible methods include: Open Competitive Bidding Direct Contracting (limited conditions only) Request for Quotations (≤ PKR 500,000) Petty Purchases (≤ PKR 100,000) Negotiated Tendering (exceptional cases) Force Account (state-owned execution) Each method requires written justification and approval. 10. Consultancy Services Consultancy is procured using: Quality and Cost Based Selection (QCBS) Quality Based Selection (QBS) Least Cost Selection (LCS) Fixed Budget Selection Single Source Selection (exceptional, Chairman approval required)",
+        "tokens": 297,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_027"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_029",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "10. Consultancy Services Consultancy is procured using: Quality and Cost Based Selection (QCBS) Quality Based Selection (QBS) Least Cost Selection (LCS) Fixed Budget Selection Single Source Selection (exceptional, Chairman approval required) Consultants must sign NDAs and comply with NADRA data protection policies. 11. Integrity, Ethics, and Conflict of Interest Employees and consultants must disclose conflicts of interest. Participation in procurement where conflict exists is prohibited. Breaches may lead to disciplinary action, termination, or blacklisting. 12. Blacklisting and Debarment Suppliers may be blacklisted for fraud, misrepresentation, breach of contract, or security violations. Due process includes notice, hearing, and documented decision. Blacklisting is communicated to PPRA. 13. Grievance Redressal Bidders may file complaints within prescribed timelines through e-PADS. Complaints are reviewed by the Grievance Redressal Committee (GRC). Decisions are binding, subject to appeal before PPRA. 14. Emergency and Classified Procurements Emergency procurement is allowed only under declared emergencies. Classified procurements involving national security follow restricted procedures with security-cleared vendors and enhanced confidentiality. 15. Record Retention and Audit All procurement and contract records must be retained for at least five years and remain available for audit, investigation, and oversight. Insufficient Data Security and Breach Notification Protocols There is no comprehensive framework specifically addressing data security measures for biometric data, nor are there mandatory breach notification protocols. No law explicitly governs biometric privacy. Impacts: Increased Vulnerability: Without stringent security controls, biometric data is more susceptible to breaches and unauthorized access. Delayed Response: The absence of mandatory breach notification mechanisms can delay incident response, worsening the impact of data breaches. Lack of Centralized Supervisory Authority There is no single, independent authority dedicated to overseeing biometric data protection. Regulatory oversight is fragmented across multiple bodies. Impacts: Inconsistent Enforcement: Fragmentation leads to uneven application of data protection standards.",
+        "tokens": 291,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_028"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_030",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Lack of Centralized Supervisory Authority There is no single, independent authority dedicated to overseeing biometric data protection. Regulatory oversight is fragmented across multiple bodies. Impacts: Inconsistent Enforcement: Fragmentation leads to uneven application of data protection standards. Coordination Challenges: Overlapping responsibilities cause delays, inefficiencies, and accountability gaps. Missing Biometrics in National Records NADRA began biometric enrollment in 2005. However: Approximately 1.2 million photographs and 2.7 million fingerprints are missing. Photograph acquisition for women was optional until 2011. There are significant biometric gaps for minors and non-nationals. Impacts: Security Risks: Inability to verify identities increases the risk of false or duplicate identities. Access to Services: Many services (banking, telecom, government assistance) rely on biometrics. Individuals without biometric records face exclusion. Human Trafficking Risks: Minors and women without biometric records are more vulnerable to exploitation. Fake IDs Issued Before Biometric Implementation Prior to biometric systems, NADRA’s registration process suffered from major weaknesses. Issues Identified: Identity theft and fraud were common. Manual data entry caused inaccuracies in names, addresses, and dates of birth. The system was vulnerable to tampering and corruption. Lack of transparency enabled misuse and abuse of authority. e-KYC Based on a Single Biometric Modality Single-modality biometric e-KYC systems suffer from multiple weaknesses. Key Limitations: Higher risk of spoofing and security breaches False non-match errors Poor inclusivity for elderly and persons with disabilities Lack of liveness detection Bias and scalability limitations Impacts: Increased fraud risk User frustration Service exclusion for vulnerable populations Challenges in Capturing Physiological Biometrics\nFingerprints Weak or missing fingerprints due to age, labor, disability, or medical conditions Environmental factors (dust, humidity, temperature) affect quality Need for liveness-enabled scanners Face Temporary or permanent facial injuries Cultural and religious objections to photography Iris Environmental sensitivity (lighting, dust, humidity) Genetic eye diseases affecting enrollment Eye surgeries and cosmetic lenses impacting recognition accuracy",
+        "tokens": 300,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_029"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_031",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Face Temporary or permanent facial injuries Cultural and religious objections to photography Iris Environmental sensitivity (lighting, dust, humidity) Genetic eye diseases affecting enrollment Eye surgeries and cosmetic lenses impacting recognition accuracy Identity Theft Loopholes (Classical Examples) Multiple registrations of the same child under different identities Passport issuance to non-nationals under 18 without biometrics Family tree manipulation for financial or migration benefits Declaring relatives deceased to remove duplicate records Fake marriages for human trafficking SIM and bank account issuance without proper biometric verification Misuse of Biometrics (2014 Case Study) During early biometric SIM verification: Silicone and fake fingerprints were used to bypass systems Fingerprints were collected through donation drives and copied onto films Even multi-fingerprint systems were defeated using paper prints and oil Biometric data leaks from other systems (e.g., driving license databases) were exploited Outcome:\nMulti-modal biometric verification was introduced to mitigate these risks. Core Problem Statement Responsibility for vital event reporting lies with citizens, not the state Multiple unintegrated systems exist across NADRA, Union Councils, and other agencies Repeated manual data entry causes duplication and inconsistency Around 40 million people remain unregistered NADRA service centers are sparse, causing access and capacity issues No standardized national biometric or registration policy exists Opportunities Standardization can create a single, authoritative source of truth Integration of NADRA and Union Council systems will reduce illegal registrations Continuous population registration can eliminate the need for traditional census Extending services to Union Councils will drastically improve accessibility Mobile-based services can leverage high mobile and broadband penetration NADRA REGISTRATION & ID DOCUMENT POLICIES (Cleaned & Structured for RAG Use) 1. Fresh New Registration\n1.1 Registration of Minors (Under 18 Years) Legal Basis:\nSection 9, NADRA Ordinance 2000 Parents or legal guardians must register a minor within one month of birth. Child Registration Certificate (CRC)",
+        "tokens": 297,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_030"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_032",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Mobile-based services can leverage high mobile and broadband penetration NADRA REGISTRATION & ID DOCUMENT POLICIES (Cleaned & Structured for RAG Use) 1. Fresh New Registration\n1.1 Registration of Minors (Under 18 Years) Legal Basis:\nSection 9, NADRA Ordinance 2000 Parents or legal guardians must register a minor within one month of birth. Child Registration Certificate (CRC) Issued under Rule 18(1), NIC Rules 2002 CRC contains a unique ID number that later converts to CNIC at age 18 After amendments: Each child receives a separate CRC Biometrics are included Certificate has an expiry Mandatory presence: Children above 3 years must be present Photograph of children below 3 years is captured for passport issuance Juvenile Card Issued under Rule 18(1) as a card Minor must be present as primary applicant Requirements: Fresh Registration (Under 18)\nCRC – Resident / Non-Resident / Intending Non-Resident Application by parent or guardian Verified computerized birth certificate (UC / MC / Cantonment) OR foreign birth certificate / S-1 Form / naturalization certificate Biometric verification by: Blood relative or guardian OR CNIC-F attestation (DAU only) Juvenile Card Application on behalf of minor Presence and CNIC of parent or guardian Verified birth certificate Biometric verification (DAU or mobile app) NICOP / Smart NICOP (Minors) Legal Basis: Section 12, NADRA Ordinance 2000 Applicable for minors living abroad or intending to live abroad. Key Requirements: Application by guardian Parent/guardian CNIC or presence Foreign birth certificate or S-1 Form Foreign passport / residence permit / travel document Embassy-attested undertakings (where applicable) 2. Registration of Citizens (18 Years and Above) Legal Basis: Section 9, NADRA Ordinance 2000 Citizens must register within three months of turning 18. Issued Documents CNIC Smart CNIC NICOP / Smart NICOP (for non-residents) Requirements: Resident Citizens (18+)\nWith Blood Relative Application by applicant CNIC of parent or blood relative",
+        "tokens": 300,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_031"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_033",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Legal Basis: Section 9, NADRA Ordinance 2000 Citizens must register within three months of turning 18. Issued Documents CNIC Smart CNIC NICOP / Smart NICOP (for non-residents) Requirements: Resident Citizens (18+)\nWith Blood Relative Application by applicant CNIC of parent or blood relative Verified computerized birth certificate Biometric verification or CNIC-F attestation Without Blood Relative (System Independent) Application by applicant Verified birth certificate Biometric witness + affidavit CNIC-F attestation Additional documents if required Such cases undergo enhanced scrutiny. NICOP / Smart NICOP (18+) For non-resident or intending non-resident citizens. Includes: Application Birth certificate or S-1 Form Foreign passport / residence permit Biometric verification or embassy verification Witness affidavit where relatives unavailable 3. Universal Processing Rules (All Registrations) Applicants may apply from anywhere (Pakistan or abroad) All cases processed through UV checklist OIC must conduct interview and record findings Children of registered parents cannot be denied Family of proclaimed offenders may be processed DOB/place of birth inconsistencies handled under UV policy Birth certificate data takes precedence Marital status, address, disability, organ donor status handled as per standards Religion of minors follows father (or mother if father unregistered) Original documents must be seen and scanned (except NADRA-issued) 4. Change & Correction in Identity Documents Legal Basis: Rule 13, NIC Rules 2002 Name Change One-time only (exceptions for females after marriage) Requires birth certificate correction first if already on record Foreign applicants require embassy-attested documents Parents’ Name Correction Requires biometric presence of parents or siblings If unavailable, documentary proof required Only one correction allowed Date of Birth (DOB) Change Up to 5 years: documentary proof Over 5 years: DG approval required Unrealistic changes (10+ years) need justification If day/month unknown → default 01 July Address Change Temporary: utility bill / affidavit / relative address Permanent: stricter documentary proof",
+        "tokens": 295,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_032"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_034",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Only one correction allowed Date of Birth (DOB) Change Up to 5 years: documentary proof Over 5 years: DG approval required Unrealistic changes (10+ years) need justification If day/month unknown → default 01 July Address Change Temporary: utility bill / affidavit / relative address Permanent: stricter documentary proof No document required for foreign address Marital Status Change Marriage, divorce, widowhood certificates required If spouse already linked, no document required Religion & Gender Change Reversion to Islam allowed anytime Islam → other religion not allowed after declaration Gender change requires medical evidence Transgender → male/female not allowed 5. Conversion, Reprint & Renewal\nConversion Teslin → Smart allowed Smart → Teslin not allowed CRC → Juvenile / NICOP requires biometrics Duplicate / Renewal No data change allowed Biometrics updated Old card defaced and returned 6. Office Mistake Handling No documents or attestation required Processed free of cost Valid tracking ID mandatory 7. Family Registration Certificate (FRC) Applicant may be blood relative, spouse, or guardian CRC/Juvenile card holders cannot apply Digitally impounded members may still be included Unregistered members added via OneApp 8. Pakistan Origin Card (POC) Legal Basis: Section 11, NADRA Ordinance 2000 Eligible Categories Ex-Pakistanis Parents / grandparents of Pakistani origin Spouse of Pakistani citizen Children of foreign spouse Validity 7 years (Pakistani origin) 5 years (spouse-based) Benefits Visa-free entry Property ownership Bank accounts Employment eligibility Identity proof 9. Cancellation of Identity Documents Legal Basis: Section 17 & 18, NADRA Ordinance 2000 Reasons Death Renunciation of nationality Divorce (foreign spouse) Ineligibility or fraud Process Application + original document Verified death certificate or renunciation proof Receipt issued upon cancellation 10. Verification, Revocation & Cancellation Regulations (2025) Verification Boards at Zonal, Regional, HQ Digital marking for suspect records Mandatory hearing before adverse order Speaking orders within 30 days Appeals allowed within 30 days",
+        "tokens": 300,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_033"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_035",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Divorce (foreign spouse) Ineligibility or fraud Process Application + original document Verified death certificate or renunciation proof Receipt issued upon cancellation 10. Verification, Revocation & Cancellation Regulations (2025) Verification Boards at Zonal, Regional, HQ Digital marking for suspect records Mandatory hearing before adverse order Speaking orders within 30 days Appeals allowed within 30 days Intruder segregation through affidavit and biometrics 11. Core Ordinance References NADRA Ordinance 2000 NIC Rules 2002 POC Rules 2002 Verification & Cancellation Regulations 2025 Appointment & Emoluments Rules 2020 NADRA Ordinance 2000 – Fund, Accounts, Audit and Penalties Financial Management, Audit, Confidentiality, Offences, Governance CLEAN CONTENT\nNADRA Fund A non-lapsable fund called the NADRA Fund is established to finance the Authority’s functions and operations. This includes salaries and remuneration of the Chairman, members, registration officers, staff, consultants, advisers, and other employees. The Fund consists of grants, loans, foreign aid, service fees, income from property, securities issued by the Authority, and all other lawful receipts. The Fund is maintained in one or more bank accounts in Pakistan or abroad and operated according to NADRA regulations. The Federal Government exclusively funds NADRA’s operations for at least three years from establishment. After this period, funding responsibility may cease if NADRA becomes self-sufficient, subject to formal notification. Budget and Accounts NADRA must submit an annual budget showing estimated receipts and expenditures for Federal Government approval. Any surplus after tax is remitted to the Federal Consolidated Fund, while deficits are covered by the Federal Government. NADRA maintains accurate accounts and undergoes audits conducted by chartered accountants appointed by the Federal Government in consultation with the Auditor General of Pakistan. Confidentiality of Information",
+        "tokens": 271,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_034"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_036",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "The Federal Government exclusively funds NADRA’s operations for at least three years from establishment. After this period, funding responsibility may cease if NADRA becomes self-sufficient, subject to formal notification. Budget and Accounts NADRA must submit an annual budget showing estimated receipts and expenditures for Federal Government approval. Any surplus after tax is remitted to the Federal Consolidated Fund, while deficits are covered by the Federal Government. NADRA maintains accurate accounts and undergoes audits conducted by chartered accountants appointed by the Federal Government in consultation with the Auditor General of Pakistan. Confidentiality of Information Any person who unlawfully discloses information obtained through employment with NADRA is punishable by imprisonment up to five years, a fine up to one million rupees, or both. Disclosure is permitted only for criminal proceedings or when authorized by NADRA. Unauthorized use, access, or interference with NADRA’s registration systems, databases, or data infrastructure is punishable by rigorous imprisonment up to fourteen years and a minimum fine of one million rupees. Offences and Penalties Offences include failure to register, concealment of information, failure to report lost cards, refusal to surrender identity documents, late application for CNIC, or violation of NADRA rules. Penalties include imprisonment up to six months or fines. Serious offences such as false statements, tampering with identity cards, forging documents, possessing multiple cards unlawfully, or fraudulent attestation are punishable by imprisonment up to five years and fines up to one hundred thousand rupees. All fines collected are credited to the Federal Consolidated Fund. Legal Proceedings Courts may only take cognizance of offences upon a written complaint by NADRA or an authorized officer. Trials are conducted by Magistrates of the First Class, including summary trials where applicable. Governance and Employment",
+        "tokens": 283,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_035"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_037",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Courts may only take cognizance of offences upon a written complaint by NADRA or an authorized officer. Trials are conducted by Magistrates of the First Class, including summary trials where applicable. Governance and Employment The Chairman and members are paid emoluments determined by the Federal Government and may not engage in outside employment, business, or advisory roles related to NADRA projects. They must not hold financial interests in entities dealing with NADRA. NADRA may appoint registration officers, staff, consultants, and advisers as required. All such personnel are deemed public servants under Pakistani law. Transfer of Employees and Assets Upon NADRA’s establishment, employees of predecessor organizations were transferred to NADRA with preserved service conditions. Assets, liabilities, contracts, and legal proceedings were also transferred to NADRA. Employees could opt out of transfer within specified periods. No compensation is payable solely due to transfer. Tax Exemption NADRA is exempt from income tax, super tax, and wealth tax for five years from establishment. Rule-Making Authority The Federal Government may issue rules, and NADRA may issue regulations, to implement the Ordinance. NADRA regulations override other laws where conflicts exist. Removal of Difficulties and Repeal The Federal Government may issue orders to resolve implementation difficulties. The National Registration Act, 1973, is repealed, but prior actions remain valid unless inconsistent with the Ordinance. NADRA Identity Card Renewal, CRC Services, and Legal Undertakings Identity Card Renewal, CRC Application, Biometric Verification, Legal Undertakings CLEAN CONTENT\nIdentity Card Renewal (PakID Mobile App) Citizens can renew their identity card using the NADRA PakID mobile application. The process begins by selecting the ID Card option under Identity Documents and choosing Renew. The applicant must first identify whether the application is for: Self, or A blood relative (parents, siblings, spouse, or minors)",
+        "tokens": 289,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_036"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_038",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "The applicant must first identify whether the application is for: Self, or A blood relative (parents, siblings, spouse, or minors) If applying for a relative, the applicant must enter the relative’s citizen number. The system then guides the applicant through biometric verification. Facial verification is attempted first. If facial verification is successful, fingerprint verification is optional. If required, fingerprints are captured using the phone camera under guided instructions. Applicants select a processing category: Normal Urgent Executive The delivery method for the renewed card must be selected. Options include delivery to a permanent address, temporary address, another specified address, or collection from a selected NADRA center. After uploading any required supporting documents, the application is submitted. Payment is requested only after background verification and approval. The applicant is notified through the app once payment is required. Child Registration Certificate (CRC) Application A New CRC can be applied for using the PakID mobile app by selecting the CRC option. The applicant must identify whether the application is for self or a blood relative. Processing priority (Normal or Executive) is selected before proceeding. For newborns or minors, the applicant must provide: Child’s full name (English and Urdu) Gender and date of birth Birth country, province, district, tehsil Relationship with applicant Twin status (if applicable) Parents’ details are mandatory and include citizen numbers and names in English and Urdu. Disability details, if applicable, may be added by entering the disability type, certificate number, and issuance date. This section is optional. Biometric attestation by the spouse or parent is required to complete the CRC application. Required documents must be uploaded clearly and legibly. The application is reviewed and submitted after confirmation. Biometric Capture Guidelines Biometric verification may include facial recognition and fingerprint capture. For fingerprint capture:",
+        "tokens": 291,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_037"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_039",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Biometric attestation by the spouse or parent is required to complete the CRC application. Required documents must be uploaded clearly and legibly. The application is reviewed and submitted after confirmation. Biometric Capture Guidelines Biometric verification may include facial recognition and fingerprint capture. For fingerprint capture: Hands must be steady and properly aligned under the camera Fingers should not be spread, tilted, or curled Background must be plain with no shadows The phone should not be shaken during capture Lower-specification devices may take additional time during biometric verification. Legal Undertakings (Standardized Summaries)\nCNIC or NICOP Cancellation Applicants holding foreign nationality may voluntarily cancel CNIC or NICOP when applying for a Pakistan Origin Card (POC). The applicant declares acquisition of foreign nationality and relinquishes future claims to Pakistani citizenship. POC Cancellation Dual nationals who mistakenly obtained a POC may request cancellation by declaring continued Pakistani citizenship and intent to retain CNIC or NICOP. Lost Card Declaration Applicants declare loss of CNIC, NICOP, or Smart ID and undertake to return the card if found later. Marital Status Declarations Applicants may declare marital status changes including: Marriage Divorce Widow or widower status Declarations affirm the correctness of marital information and acceptance of legal responsibility for false statements. Name Change Applicants may declare a name change and confirm that the name will not be reverted or modified again, except where legally allowed. Religion Correction or Conversion Applicants may request correction of religion in NADRA records or declare conversion to Islam. Declarations affirm correctness and legal responsibility. NICOP Without Passport Applicants residing abroad without a valid passport may submit an undertaking explaining the reason, such as loss or absence of passport, subject to verification by Pakistani missions. Correction Form (General Guidance)",
+        "tokens": 285,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_038"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "products_identity_040",
+    "router": {
+      "domain": "products",
+      "group": "identity"
+    },
+    "content": {
+      "en": {
+        "text": "Religion Correction or Conversion Applicants may request correction of religion in NADRA records or declare conversion to Islam. Declarations affirm correctness and legal responsibility. NICOP Without Passport Applicants residing abroad without a valid passport may submit an undertaking explaining the reason, such as loss or absence of passport, subject to verification by Pakistani missions. Correction Form (General Guidance) Correction requests must clearly specify only the field being corrected, such as name or date of birth. Applicants must affirm that information provided is accurate and acknowledge legal consequences for false declarations.",
+        "tokens": 90,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "products_identity_039"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PRODUCTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "projects_deployments_001",
+    "router": {
+      "domain": "projects",
+      "group": "deployments"
+    },
+    "content": {
+      "en": {
+        "text": "Re-admission Case Management System\nInternational Project\nUnder the EURA agreement between Government of Pakistan and EU Member States, NADRA developed an Electronic Platform for Readmission of persons residing in EU without authorization. First phase of pilot project was rolled out for 4x EU Member States (MS) in 2017/18. Upon successful execution in Phase-I, second service agreement was signed in July 2020 between NADRA and IOM Pakistan for deployment of solution in additional 14x EU Foreign Missions and its corresponding states. A prior approval was acquired from MoI, MoFA, Law Division, MoHR, MoOP & HRD and Honorable Cabinet to sign the contract and deploy the solution. In compliance to second agreement, the system is deployed in additional 4 EU MS during month of Sep. & Oct. 2021. National Identity Management System Nigeria\nInternational Project\nNADRA has developed and implemented complete backend system for Nigerian National Identity Card project. It is integrated with world’s leading AFIS System and is used effectively for issuance of identities. Backend System of National ID Card is implemented, National Identity Management portal, integration with AFIS, production and front end enhancements are done under this project. Civil Registration System Sudan\nInternational Project\nCivil registration system was designed for the registration and tracking of vital events of the citizens of Sudan. These vital events include birth, death, marriage and divorce updated in a Centralized National Database. NADRA has developed and implemented an end to end civil registration management application for Sudan including issuance of National Identities, Birth, Death, Marriage and Divorce. The system is integrated with world leading AFIS system.",
+        "tokens": 261,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": false,
+      "overlap_with": [],
+      "overlap_ratio": 0.0
+    },
+    "metadata": {
+      "source_file": "NADRA_PROJECTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "projects_deployments_002",
+    "router": {
+      "domain": "projects",
+      "group": "deployments"
+    },
+    "content": {
+      "en": {
+        "text": "Civil Registration System Sudan\nInternational Project\nCivil registration system was designed for the registration and tracking of vital events of the citizens of Sudan. These vital events include birth, death, marriage and divorce updated in a Centralized National Database. NADRA has developed and implemented an end to end civil registration management application for Sudan including issuance of National Identities, Birth, Death, Marriage and Divorce. The system is integrated with world leading AFIS system. National Driver’s License System Bangladesh\nInternational Project\nNADRA has a comprehensive Drivers Licensing system for Bangladesh. These cards have stored data with card bearer’s personal information. Digitization of the applicant’s information ensures authenticity with transparency. Over 275,000 driver’s license have been issued. Additionally, NADRA provides regular consultancy services and enhancements to Bangladeshi Licensing systems. Passport Issuance & Control System Kenya\nInternational Project\nNADRA enabled Kenya with the issuance of machine readable passport after extensive research and development. This Passport is Identity Card centric and compliant to ICAO standards. The implemented technology and business logic has enabled Kenya with International Civil Aviation Organization (ICAO) complaint data acquisition software for passports. Passport data is synchronized with their identity system. NADRA provides technical support and software upgrade when required. Electronic Passport System Kenya\nInternational Project\nAfter the successful upgrade of manual to machine readable passports, Kenya Government requested that these passports be upgraded to e-passports. The solution implemented is suitable for all types and is customizable as per client’s requirements with the following features:",
+        "tokens": 244,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "projects_deployments_001"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PROJECTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "projects_deployments_003",
+    "router": {
+      "domain": "projects",
+      "group": "deployments"
+    },
+    "content": {
+      "en": {
+        "text": "Electronic Passport System Kenya\nInternational Project\nAfter the successful upgrade of manual to machine readable passports, Kenya Government requested that these passports be upgraded to e-passports. The solution implemented is suitable for all types and is customizable as per client’s requirements with the following features: Election Management System Fiji\nInternational Project\nFiji Elections Office (FEO) awarded the “Election Management System” to NADRA through International Competitive Bidding process in May 2016. NADRA shall develop and deploy an ISO compliant, strategically secure and highly scalable election management system for the Republic of Fiji by February 2017. NADRA’s knowledge and experience shall be applied to migrate Fiji’s existing system of distributed and disparate Election Management modules to an enhanced and integrated architecture of a Centralized Election Management System (CEMS). This system aims to provide better and faster decision making while protecting the fundamental voting rights of the Fijian people. National Identification System Somalia\nInternational Project\nIn 2017, the Government of Pakistan and the Federal Government of Somalia entered into a contract to develop an ID System for Somali citizens. As a part of this agreement, NADRA is collaborating with the Government of Somalia to build a state-of-the-art national data and registration system. NADRA’s involvement encompasses the development of technology, provision of software, and supply of equipment to facilitate the national identification system. This collaborative effort aims to enhance the efficiency and effectiveness of identification processes for the citizens of Somalia. Re-admission Case Management System Republic Turkiye 1\nLocal Project\nCollaborating with the Presidency of Migration Management (PMM) in Türkiye, NADRA has developed an Electronic Readmission Case Management System. The system is designed to streamline the identification and organized return of Pakistani nationals, it’s a pivotal step in managing irregular migration effectively.",
+        "tokens": 288,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "projects_deployments_002"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PROJECTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "projects_deployments_004",
+    "router": {
+      "domain": "projects",
+      "group": "deployments"
+    },
+    "content": {
+      "en": {
+        "text": "Re-admission Case Management System Republic Turkiye 1\nLocal Project\nCollaborating with the Presidency of Migration Management (PMM) in Türkiye, NADRA has developed an Electronic Readmission Case Management System. The system is designed to streamline the identification and organized return of Pakistani nationals, it’s a pivotal step in managing irregular migration effectively. Public Sector Education Development\nLocal Project\nNADRA signed an agreement with Punjab School Education Department for the Verification of 11 x Million CRC/Form numbers and relation of child with their recorded parents/guardian. Excise and Taxation Department Vehicle Registration Card\nLocal Project\nExcise and Taxation Department has started to issue the Vehicle Registration Card by replacing the existing book with the chip-based smart card. The vehicle and owner information is provided in the Smart Card. The owner of the project is Excise & Taxation Department. After performing the data entry at ETO office, NADRA executes verification and validation checks on the provided data from ETO. Chip based card is then printed by NADRA when the data has been verified and validated. NADRA in collaboration with ICTA (Excise & Taxation Department) is providing Vehicle registration and Transfer facility for residents of Islamabad at their Doorstep. For Appointment, please call: 051-111-111-377 CGA Pensioner Proof of Life\nLocal Project\nOn 18 November 2020, an Agreement was signed among Finance Division, Controller General Accounts (CGA) and NADRA to validate pensioners’ data and carry out the periodic exercise for proof of life of pensioners. The project has been rolled out in Rawalpindi and Islamabad.",
+        "tokens": 249,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "projects_deployments_003"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PROJECTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "projects_deployments_005",
+    "router": {
+      "domain": "projects",
+      "group": "deployments"
+    },
+    "content": {
+      "en": {
+        "text": "CGA Pensioner Proof of Life\nLocal Project\nOn 18 November 2020, an Agreement was signed among Finance Division, Controller General Accounts (CGA) and NADRA to validate pensioners’ data and carry out the periodic exercise for proof of life of pensioners. The project has been rolled out in Rawalpindi and Islamabad. Sehat Sahulat Program (Federal & Punjab and KP)\nLocal Project\nThe program strives to provide a cash less health scheme for underprivileged (BISP beneficiaries having PMT score less than 32.5) in a phased manner. The project is operational in Federal, Punjab, KP & Tharparkar Sindh, for all permanent residents of these areas under which beneficiaries will be eligible to avail health care services without any financial obligation with their Computerized National Identity Number only. Electronic Business Invitation Letter\nLocal Project\nNADRA designed, developed, implemented and hosts E-Business Invitation Letter System (E-BIL). E-BIL is developed to ensure that Foreign Nationals can apply for Business Invitation Letter (a REQUIRED document in Pakistan’s Business Visa Application) from their desired Chambers of Commerce and Industries / Trade Bodies authorized by the DGTO, Ministry of Commerce. E-BIL was launched in March 2020. Through E-BIL, Pakistani Nationals are able to apply for Business Invitation Letter as well to pursue business visa application for foreign countries. Executive Passport Office\nLocal Project\nDirectorate General of Immigration and Passport (DG I&P) and NADRA jointly started the operations of Executive Passport Office Project on 27th October 2015. The Project aims to better facilitate passport applicants through one-window operations in most convenient environment.",
+        "tokens": 252,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "projects_deployments_004"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PROJECTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "projects_deployments_006",
+    "router": {
+      "domain": "projects",
+      "group": "deployments"
+    },
+    "content": {
+      "en": {
+        "text": "Executive Passport Office\nLocal Project\nDirectorate General of Immigration and Passport (DG I&P) and NADRA jointly started the operations of Executive Passport Office Project on 27th October 2015. The Project aims to better facilitate passport applicants through one-window operations in most convenient environment. Pakistan Online Visa System\nLocal Project\nNADRA designed, developed and implemented Pakistan Online Visa System to facilitate foreigners to apply for Pakistan Visa or Exit Permit online from the comfort of their homes. Pakistan Online Visa System was launched on 14th March 2019 as a pilot project for catering 5 countries and now it has been up scaled to include 191 countries. UNHCR Afghan Registration\nLocal Project\nThe project supports in providing all Afghan citizens residing in Pakistan identification cards; enabling them to prove their legal status within Pakistan. Their Registration was also conducted and made part of the National Database. Government of Pakistan, Government of Afghanistan & UNHCR joined hands to make this project a success. Power of Attorney\nLocal Project\nNADRA in collaboration with MoFA is tasked to automate the process of Power of Attorney (PoA) for Overseas Pakistanis. NADRA created an automated solution that allows Overseas Pakistanis to apply for PoA issuance from the comfort of their homes without physically visiting the concerned Pakistan Mission Abroad. The Project was conceived in May 2021 and formally inaugurated on 18th Nov. 2021. Project was initially rolled out in missions of UK and US. The global roll out is underway. Data Validation\nLocal Project\nBISP and NADRA signed an agreement to carryout validation of NSER registry-2019 from NADRA database. Validation is carried out by matching specified fields with the record in National Citizens’ Database held at NADRA, through a customized software application. Service was deployed in Jan 2020 and is smoothly operational till date.",
+        "tokens": 297,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "projects_deployments_005"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PROJECTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "projects_deployments_007",
+    "router": {
+      "domain": "projects",
+      "group": "deployments"
+    },
+    "content": {
+      "en": {
+        "text": "Data Validation\nLocal Project\nBISP and NADRA signed an agreement to carryout validation of NSER registry-2019 from NADRA database. Validation is carried out by matching specified fields with the record in National Citizens’ Database held at NADRA, through a customized software application. Service was deployed in Jan 2020 and is smoothly operational till date. Sea fearer Card MRSID\nLocal Project\nThe project was initially signed between NADRA and GSO (Government Shipping Office) in 2005, for the processing and production of sea fearer cards. The objective of MRSID project is, to revamp the reporting module and upgrade the system hardware installed at the registration site along with Machine Readable secure card printers. Senior Citizen Azaadi Card\nLocal Project\nAs per the Sindh Senior Citizens Welfare Act, 2014 the Honorable High Court ordered the issuance of Azadi Card for citizens, falling in the age bracket of (60) years and above. Azadi Card will be issued to senior citizens and it will respond to social security needs and benefits under Government SOPs. NADRA is in the process of designing and provisioning of Secure and Valid Document (Teslin based card) for senior citizens. SESSI Benazir Mazdur Card\nLocal Project\nNADRA signed an agreement with Sindh Employee Social Security Institute (SESSI) for the issuance of Worker (Mazdur) Cards. It includes development of web-based Employer’s and Employee’s profiling system. Karachi Port Trust\nLocal Project\nKarachi Port Trust approached NADRA for the development, deployment and technical support for Toll/Tax collection system from Vehicles and Personals, based on RFID and National Smart Card. NADRA developed port access management solution for incoming/outgoing pedestrian and vehicle traffic for Karachi Port Trust.",
+        "tokens": 271,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "projects_deployments_006"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PROJECTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "projects_deployments_008",
+    "router": {
+      "domain": "projects",
+      "group": "deployments"
+    },
+    "content": {
+      "en": {
+        "text": "Karachi Port Trust\nLocal Project\nKarachi Port Trust approached NADRA for the development, deployment and technical support for Toll/Tax collection system from Vehicles and Personals, based on RFID and National Smart Card. NADRA developed port access management solution for incoming/outgoing pedestrian and vehicle traffic for Karachi Port Trust. National Immunization Management System\nLocal Project\nNational Immunization Management System (NIMS) was initiated on the request of Ministry of Health/NCOC in January to consolidate all immunization activities that are being carried out in the country, on a single intelligent platform. Initially, NIMS was designed to manage the COVID-19 vaccination nationwide and later it shall be used as National Immunization Registry for all type of immunizations. PAK IDENTITY\nLocal Project\nIn the era of technological evolution and with the growing needs of registration for the citizens of Pakistan, Thanks to NADRA’s Pak Identity Services, getting Pakistani Identity document is just a few clicks away, no matter where you are in the world. Pak Identity provides convenient services through online application processing for both inland and overseas Pakistanis. Applications are applied through the Pak Identity mobile app (Android & IOS) and delivered to the applicant’s doorsteps worldwide. Pakistan Post Office\nLocal Project\nNADRA and Pakistan Post signed a joint venture on 20-06-2017 for issuance, processing & delivery of ID cards through Pakistan Post Offices. The main purpose of this project is to facilitate citizens in far-flung areas where NADRA offices are not easily accessible. Renewal, Reprint and Modification (Marital Status & Address only) categories are allowed from PPO Sites.",
+        "tokens": 255,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "projects_deployments_007"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PROJECTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "projects_deployments_009",
+    "router": {
+      "domain": "projects",
+      "group": "deployments"
+    },
+    "content": {
+      "en": {
+        "text": "Pakistan Post Office\nLocal Project\nNADRA and Pakistan Post signed a joint venture on 20-06-2017 for issuance, processing & delivery of ID cards through Pakistan Post Offices. The main purpose of this project is to facilitate citizens in far-flung areas where NADRA offices are not easily accessible. Renewal, Reprint and Modification (Marital Status & Address only) categories are allowed from PPO Sites. Digital Census\nLocal Project\nFor the first time in Pakistan, NADRA proposed a comprehensive “IT Solution” to carry out 7th Population and Household Census of Pakistan, “THE DIGITAL CENSUS”. Span of this activity is covering the whole country, in 628 Tehsils comprising approx. 185,000 Census blocks. The activity shall be performed using android based smart devices, equipped with android based house listing and enumeration application synchronized with GPS & GIS. Project Management Center of Excellence\nLocal Project\nThe Project Directorate in NADRA, has an active Project Management Office, by the name of “Project Management Centre of Excellence” (PMCoE). PMCoE has mandate of project governance, streamlining and standardizing documents & processes, facilitating project teams to achieve project goals and ensuring a robust project monitoring, evaluation and audit mechanism. It ensures conducive environment, and also equips Project Managers and teams with resources, tools and techniques to achieve project objectives.",
+        "tokens": 209,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "projects_deployments_008"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PROJECTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "projects_deployments_010",
+    "router": {
+      "domain": "projects",
+      "group": "deployments"
+    },
+    "content": {
+      "en": {
+        "text": "Project Management Center of Excellence\nLocal Project\nThe Project Directorate in NADRA, has an active Project Management Office, by the name of “Project Management Centre of Excellence” (PMCoE). PMCoE has mandate of project governance, streamlining and standardizing documents & processes, facilitating project teams to achieve project goals and ensuring a robust project monitoring, evaluation and audit mechanism. It ensures conducive environment, and also equips Project Managers and teams with resources, tools and techniques to achieve project objectives. Succession Certificate\nLocal Project\nIn January 2021, NADRA launched a quick five-step process, which facilitates the applicants to receive Letters of Administration or Succession Certificates, as the case may be, without going to the Courts. This has led to reduction of workload on judiciary by 30%. The Project is operational in ICT, Punjab, Sindh and KP at District level sites. Succession Certificate project is currently rolled out across Islamabad, Sindh, Punjab and Khyber Pakhtunkhwa. More regions will be added soon to the program. Please visit the official website of this project for more information. Prime Minister National Health Program\nLocal Project\nPrime Minister’s National Health Program (PMNHP) is a milestone towards social welfare reforms; ensuring that the identified under-privileged citizens across the country get access to their entitled medical health care in a swift and dignified manner without any financial obligations. It ensures the health of underprivileged citizens of the country and is destined to target all falling under the poverty line as per World Health Organization’s standards. Eligibility of treatment is on inpatient basis; including secondary care and priority treatments. Details of the same can be viewed on the PMNHP website.",
+        "tokens": 269,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "projects_deployments_009"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PROJECTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "projects_deployments_011",
+    "router": {
+      "domain": "projects",
+      "group": "deployments"
+    },
+    "content": {
+      "en": {
+        "text": "Prime Minister National Health Program\nLocal Project\nPrime Minister’s National Health Program (PMNHP) is a milestone towards social welfare reforms; ensuring that the identified under-privileged citizens across the country get access to their entitled medical health care in a swift and dignified manner without any financial obligations. It ensures the health of underprivileged citizens of the country and is destined to target all falling under the poverty line as per World Health Organization’s standards. Eligibility of treatment is on inpatient basis; including secondary care and priority treatments. Details of the same can be viewed on the PMNHP website. Frontier Corps Cards Production\nLocal Project\nNADRA provided security cards to the Frontier Corps (FC) with advance security features to provide maximum security to the field facilities. The requirement was to create a consolidated database which could later act as a framework for future initiatives. The service cards provided as a result ensured transparent and efficient record of troops and accurate data. Filled forms were taken, data was digitized and verified for accuracy and was stored in database. These computerized identity management cards were printed with ensured security features and handed over to the concerned. Office Locator Mobile Application\nLocal Project\nEasy to use application that allows you to search and view the geographical location, postal address, contact number and timing for the nearest NADRA Registration Center. You can also filter the NADRA center that suits you on the basis of the center type (ordinary / executive) and operating hours.",
+        "tokens": 248,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "projects_deployments_010"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PROJECTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "projects_deployments_012",
+    "router": {
+      "domain": "projects",
+      "group": "deployments"
+    },
+    "content": {
+      "en": {
+        "text": "Office Locator Mobile Application\nLocal Project\nEasy to use application that allows you to search and view the geographical location, postal address, contact number and timing for the nearest NADRA Registration Center. You can also filter the NADRA center that suits you on the basis of the center type (ordinary / executive) and operating hours. Watan Card\nLocal Project\nWatan Cards were launched in 2010 to help the victims of floods in Pakistan. NADRA played a vital role in supporting the Government of Pakistan to provide the financial assistance to the flood affected population of Pakistan on a short notice of 72 hours. The 14 Million affected were given relief for fast recovery and their return to normal and comfortable lifestyle. The affected areas were identified; biometrics taken and verified to ensure transparency and maintain records. Watan card provides the beneficiaries to manage their life style with the grant provided and support family members. This project ensured rehabilitation after natural calamities. It has also developed a web based case management system to facilitate appeals and complains of the applicants. Earthquake Relief\nLocal Project\nEarthquake reconstruction and rehabilitation Authority was established by the Government of Pakistan in October, 2005 due to the Earthquake that hit KPK, Pakistan. It was given the task of rebuilding the 30,000 square kilometers of 9 districts in KPK and AJ&K. NADRA supported the eligibility and beneficiary verification for the victims. This project was deployed within 7 days of the disaster. Two projects were conducted under this program\nLocal Project\nHousing All these forms were digitized and data was automated. Reporting mechanism could be supported due to this digitization. The following was done:",
+        "tokens": 276,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "projects_deployments_011"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PROJECTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  },
+  {
+    "chunk_id": "projects_deployments_013",
+    "router": {
+      "domain": "projects",
+      "group": "deployments"
+    },
+    "content": {
+      "en": {
+        "text": "Two projects were conducted under this program\nLocal Project\nHousing All these forms were digitized and data was automated. Reporting mechanism could be supported due to this digitization. The following was done: NSER BISP initiative\nLocal Project\nNADRA is providing facilitation services to BISP, for the National Socio Economic Registry (NSER) through Desk- Based Data Collection Centers, while using Computer Assisted Personal Interviewing (CAPI) approach. NADRA signed the NSER contract for establishment of 341x Temporary Sites & 441 Permanent Sites. Pakistan card\nLocal Project\nIn 2011, Sindh experienced the worst floods. The Government of Pakistan started Pakistan card destined to provide facilities to the flood affected of Sindh province. SMS based service 9777 supported the verification of these beneficiaries. Rs. 20,000/person were given to all the affected. Sites Established: 98 Cards Issued: 1.25 Million Amount Credited: PKR. 6.4 Billion Temporary Displaced Person (FATA)\nLocal Project\nIn wake of the militancy hit areas of Pakistan due to the operations in tribal areas to eradicate terrorism, a lot of families have been displaced from their home domain. FATA Disaster Management Authority with support of NADRA has verified citizens for the emergency recovery support. The financial aid is being given to all these deserving persons. Eligibility and enrolment is done through NADRA Citizen Database. Furthermore, Biometric Verification for Secure Disbursement of funds reporting mechanism for check and analysis of data is also facilitated in this program.",
+        "tokens": 233,
+        "status": "final"
+      },
+      "ur": {
+        "text": null,
+        "tokens": null,
+        "status": "pending"
+      }
+    },
+    "chunking": {
+      "is_overlapping": true,
+      "overlap_with": [
+        "projects_deployments_012"
+      ],
+      "overlap_ratio": 0.18
+    },
+    "metadata": {
+      "source_file": "NADRA_PROJECTS.txt",
+      "language_canon": "en",
+      "version": "1.0"
+    }
+  }
+]

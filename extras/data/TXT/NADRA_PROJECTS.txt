@@ -1,0 +1,153 @@
+
+
+Re-admission Case Management System
+International Project
+Under the EURA agreement between Government of Pakistan and EU Member States, NADRA developed an Electronic Platform for Readmission of persons residing in EU without authorization. First phase of pilot project was rolled out for 4x EU Member States (MS) in 2017/18. Upon successful execution in Phase-I, second service agreement was signed in July 2020 between NADRA and IOM Pakistan for deployment of solution in additional 14x EU Foreign Missions and its corresponding states. A prior approval was acquired from MoI, MoFA, Law Division, MoHR, MoOP & HRD and Honorable Cabinet to sign the contract and deploy the solution. In compliance to second agreement, the system is deployed in additional 4 EU MS during month of Sep. & Oct. 2021.
+
+National Identity Management System Nigeria
+International Project
+NADRA has developed and implemented complete backend system for Nigerian National Identity Card project. It is integrated with world’s leading AFIS System and is used effectively for issuance of identities. Backend System of National ID Card is implemented, National Identity Management portal, integration with AFIS, production and front end enhancements are done under this project.
+
+Civil Registration System Sudan
+International Project
+Civil registration system was designed for the registration and tracking of vital events of the citizens of Sudan. These vital events include birth, death, marriage and divorce updated in a Centralized National Database. NADRA has developed and implemented an end to end civil registration management application for Sudan including issuance of National Identities, Birth, Death, Marriage and Divorce. The system is integrated with world leading AFIS system.
+
+National Driver’s License System Bangladesh
+International Project
+NADRA has a comprehensive Drivers Licensing system for Bangladesh. These cards have stored data with card bearer’s personal information. Digitization of the applicant’s information ensures authenticity with transparency. Over 275,000 driver’s license have been issued. Additionally, NADRA provides regular consultancy services and enhancements to Bangladeshi Licensing systems.
+
+Passport Issuance & Control System Kenya
+International Project
+NADRA enabled Kenya with the issuance of machine readable passport after extensive research and development. This Passport is Identity Card centric and compliant to ICAO standards. The implemented technology and business logic has enabled Kenya with International Civil Aviation Organization (ICAO) complaint data acquisition software for passports. Passport data is synchronized with their identity system. NADRA provides technical support and software upgrade when required.
+
+Electronic Passport System Kenya
+International Project
+After the successful upgrade of manual to machine readable passports, Kenya Government requested that these passports be upgraded to e-passports. The solution implemented is suitable for all types and is customizable as per client’s requirements with the following features:
+
+Election Management System Fiji
+International Project
+Fiji Elections Office (FEO) awarded the “Election Management System” to NADRA through International Competitive Bidding process in May 2016. NADRA shall develop and deploy an ISO compliant, strategically secure and highly scalable election management system for the Republic of Fiji by February 2017. NADRA’s knowledge and experience shall be applied to migrate Fiji’s existing system of distributed and disparate Election Management modules to an enhanced and integrated architecture of a Centralized Election Management System (CEMS). This system aims to provide better and faster decision making while protecting the fundamental voting rights of the Fijian people.
+
+National Identification System Somalia
+International Project
+In 2017, the Government of Pakistan and the Federal Government of Somalia entered into a contract to develop an ID System for Somali citizens. As a part of this agreement, NADRA is collaborating with the Government of Somalia to build a state-of-the-art national data and registration system. NADRA’s involvement encompasses the development of technology, provision of software, and supply of equipment to facilitate the national identification system. This collaborative effort aims to enhance the efficiency and effectiveness of identification processes for the citizens of Somalia.
+
+Re-admission Case Management System Republic Turkiye 1
+Local Project
+Collaborating with the Presidency of Migration Management (PMM) in Türkiye, NADRA has developed an Electronic Readmission Case Management System. The system is designed to streamline the identification and organized return of Pakistani nationals, it’s a pivotal step in managing irregular migration effectively.
+
+Public Sector Education Development
+Local Project
+NADRA signed an agreement with Punjab School Education Department for the Verification of 11 x Million CRC/Form numbers and relation of child with their recorded parents/guardian.
+
+Excise and Taxation Department Vehicle Registration Card
+Local Project
+Excise and Taxation Department has started to issue the Vehicle Registration Card by replacing the existing book with the chip-based smart card. The vehicle and owner information is provided in the Smart Card. The owner of the project is Excise & Taxation Department. After performing the data entry at ETO office, NADRA executes verification and validation checks on the provided data from ETO. Chip based card is then printed by NADRA when the data has been verified and validated. NADRA in collaboration with ICTA (Excise & Taxation Department) is providing Vehicle registration and Transfer facility for residents of Islamabad at their Doorstep. For Appointment, please call: 051-111-111-377
+
+CGA Pensioner Proof of Life
+Local Project
+On 18 November 2020, an Agreement was signed among Finance Division, Controller General Accounts (CGA) and NADRA to validate pensioners’ data and carry out the periodic exercise for proof of life of pensioners. The project has been rolled out in Rawalpindi and Islamabad.
+
+Sehat Sahulat Program (Federal & Punjab and KP)
+Local Project
+The program strives to provide a cash less health scheme for underprivileged (BISP beneficiaries having PMT score less than 32.5) in a phased manner. The project is operational in Federal, Punjab, KP & Tharparkar Sindh, for all permanent residents of these areas under which beneficiaries will be eligible to avail health care services without any financial obligation with their Computerized National Identity Number only.
+
+Electronic Business Invitation Letter
+Local Project
+NADRA designed, developed, implemented and hosts E-Business Invitation Letter System (E-BIL). E-BIL is developed to ensure that Foreign Nationals can apply for Business Invitation Letter (a REQUIRED document in Pakistan’s Business Visa Application) from their desired Chambers of Commerce and Industries / Trade Bodies authorized by the DGTO, Ministry of Commerce. E-BIL was launched in March 2020. Through E-BIL, Pakistani Nationals are able to apply for Business Invitation Letter as well to pursue business visa application for foreign countries.
+
+Executive Passport Office
+Local Project
+Directorate General of Immigration and Passport (DG I&P) and NADRA jointly started the operations of Executive Passport Office Project on 27th October 2015. The Project aims to better facilitate passport applicants through one-window operations in most convenient environment.
+
+Pakistan Online Visa System
+Local Project
+NADRA designed, developed and implemented Pakistan Online Visa System to facilitate foreigners to apply for Pakistan Visa or Exit Permit online from the comfort of their homes. Pakistan Online Visa System was launched on 14th March 2019 as a pilot project for catering 5 countries and now it has been up scaled to include 191 countries.
+
+UNHCR Afghan Registration
+Local Project
+The project supports in providing all Afghan citizens residing in Pakistan identification cards; enabling them to prove their legal status within Pakistan. Their Registration was also conducted and made part of the National Database. Government of Pakistan, Government of Afghanistan & UNHCR joined hands to make this project a success.
+
+Power of Attorney
+Local Project
+NADRA in collaboration with MoFA is tasked to automate the process of Power of Attorney (PoA) for Overseas Pakistanis. NADRA created an automated solution that allows Overseas Pakistanis to apply for PoA issuance from the comfort of their homes without physically visiting the concerned Pakistan Mission Abroad. The Project was conceived in May 2021 and formally inaugurated on 18th Nov. 2021. Project was initially rolled out in missions of UK and US. The global roll out is underway.
+
+Data Validation
+Local Project
+BISP and NADRA signed an agreement to carryout validation of NSER registry-2019 from NADRA database. Validation is carried out by matching specified fields with the record in National Citizens’ Database held at NADRA, through a customized software application. Service was deployed in Jan 2020 and is smoothly operational till date.
+
+Sea fearer Card MRSID
+Local Project
+The project was initially signed between NADRA and GSO (Government Shipping Office) in 2005, for the processing and production of sea fearer cards. The objective of MRSID project is, to revamp the reporting module and upgrade the system hardware installed at the registration site along with Machine Readable secure card printers.
+
+Senior Citizen Azaadi Card
+Local Project
+As per the Sindh Senior Citizens Welfare Act, 2014 the Honorable High Court ordered the issuance of Azadi Card for citizens, falling in the age bracket of (60) years and above. Azadi Card will be issued to senior citizens and it will respond to social security needs and benefits under Government SOPs. NADRA is in the process of designing and provisioning of Secure and Valid Document (Teslin based card) for senior citizens.
+
+SESSI Benazir Mazdur Card
+Local Project
+NADRA signed an agreement with Sindh Employee Social Security Institute (SESSI) for the issuance of Worker (Mazdur) Cards. It includes development of web-based Employer’s and Employee’s profiling system.
+
+Karachi Port Trust
+Local Project
+Karachi Port Trust approached NADRA for the development, deployment and technical support for Toll/Tax collection system from Vehicles and Personals, based on RFID and National Smart Card. NADRA developed port access management solution for incoming/outgoing pedestrian and vehicle traffic for Karachi Port Trust.
+
+National Immunization Management System
+Local Project
+National Immunization Management System (NIMS) was initiated on the request of Ministry of Health/NCOC in January to consolidate all immunization activities that are being carried out in the country, on a single intelligent platform. Initially, NIMS was designed to manage the COVID-19 vaccination nationwide and later it shall be used as National Immunization Registry for all type of immunizations.
+
+PAK IDENTITY
+Local Project
+In the era of technological evolution and with the growing needs of registration for the citizens of Pakistan, Thanks to NADRA’s Pak Identity Services, getting Pakistani Identity document is just a few clicks away, no matter where you are in the world. Pak Identity provides convenient services through online application processing for both inland and overseas Pakistanis. Applications are applied through the Pak Identity mobile app (Android & IOS) and delivered to the applicant’s doorsteps worldwide.
+
+Pakistan Post Office
+Local Project
+NADRA and Pakistan Post signed a joint venture on 20-06-2017 for issuance, processing & delivery of ID cards through Pakistan Post Offices. The main purpose of this project is to facilitate citizens in far-flung areas where NADRA offices are not easily accessible. Renewal, Reprint and Modification (Marital Status & Address only) categories are allowed from PPO Sites.
+
+Digital Census
+Local Project
+For the first time in Pakistan, NADRA proposed a comprehensive “IT Solution” to carry out 7th Population and Household Census of Pakistan, “THE DIGITAL CENSUS”. Span of this activity is covering the whole country, in 628 Tehsils comprising approx. 185,000 Census blocks. The activity shall be performed using android based smart devices, equipped with android based house listing and enumeration application synchronized with GPS & GIS.
+
+Project Management Center of Excellence
+Local Project
+The Project Directorate in NADRA, has an active Project Management Office, by the name of “Project Management Centre of Excellence” (PMCoE). PMCoE has mandate of project governance, streamlining and standardizing documents & processes, facilitating project teams to achieve project goals and ensuring a robust project monitoring, evaluation and audit mechanism. It ensures conducive environment, and also equips Project Managers and teams with resources, tools and techniques to achieve project objectives.
+
+Succession Certificate
+Local Project
+In January 2021, NADRA launched a quick five-step process, which facilitates the applicants to receive Letters of Administration or Succession Certificates, as the case may be, without going to the Courts. This has led to reduction of workload on judiciary by 30%. The Project is operational in ICT, Punjab, Sindh and KP at District level sites. Succession Certificate project is currently rolled out across Islamabad, Sindh, Punjab and Khyber Pakhtunkhwa. More regions will be added soon to the program. Please visit the official website of this project for more information.
+
+Prime Minister National Health Program
+Local Project
+Prime Minister’s National Health Program (PMNHP) is a milestone towards social welfare reforms; ensuring that the identified under-privileged citizens across the country get access to their entitled medical health care in a swift and dignified manner without any financial obligations. It ensures the health of underprivileged citizens of the country and is destined to target all falling under the poverty line as per World Health Organization’s standards. Eligibility of treatment is on inpatient basis; including secondary care and priority treatments. Details of the same can be viewed on the PMNHP website.
+
+Frontier Corps Cards Production
+Local Project
+NADRA provided security cards to the Frontier Corps (FC) with advance security features to provide maximum security to the field facilities. The requirement was to create a consolidated database which could later act as a framework for future initiatives. The service cards provided as a result ensured transparent and efficient record of troops and accurate data. Filled forms were taken, data was digitized and verified for accuracy and was stored in database. These computerized identity management cards were printed with ensured security features and handed over to the concerned.
+
+Office Locator Mobile Application
+Local Project
+Easy to use application that allows you to search and view the geographical location, postal address, contact number and timing for the nearest NADRA Registration Center. You can also filter the NADRA center that suits you on the basis of the center type (ordinary / executive) and operating hours.
+
+Watan Card
+Local Project
+Watan Cards were launched in 2010 to help the victims of floods in Pakistan. NADRA played a vital role in supporting the Government of Pakistan to provide the financial assistance to the flood affected population of Pakistan on a short notice of 72 hours. The 14 Million affected were given relief for fast recovery and their return to normal and comfortable lifestyle. The affected areas were identified; biometrics taken and verified to ensure transparency and maintain records. Watan card provides the beneficiaries to manage their life style with the grant provided and support family members. This project ensured rehabilitation after natural calamities. It has also developed a web based case management system to facilitate appeals and complains of the applicants.
+
+Earthquake Relief
+Local Project
+Earthquake reconstruction and rehabilitation Authority was established by the Government of Pakistan in October, 2005 due to the Earthquake that hit KPK, Pakistan. It was given the task of rebuilding the 30,000 square kilometers of 9 districts in KPK and AJ&K. NADRA supported the eligibility and beneficiary verification for the victims. This project was deployed within 7 days of the disaster.
+
+Two projects were conducted under this program
+Local Project
+Housing All these forms were digitized and data was automated. Reporting mechanism could be supported due to this digitization. The following was done:
+
+NSER BISP initiative
+Local Project
+NADRA is providing facilitation services to BISP, for the National Socio Economic Registry (NSER) through Desk- Based Data Collection Centers, while using Computer Assisted Personal Interviewing (CAPI) approach. NADRA signed the NSER contract for establishment of 341x Temporary Sites & 441 Permanent Sites.
+
+Pakistan card
+Local Project
+In 2011, Sindh experienced the worst floods. The Government of Pakistan started Pakistan card destined to provide facilities to the flood affected of Sindh province. SMS based service 9777 supported the verification of these beneficiaries. Rs. 20,000/person were given to all the affected. Sites Established: 98 Cards Issued: 1.25 Million Amount Credited: PKR. 6.4 Billion
+
+Temporary Displaced Person (FATA)
+Local Project
+In wake of the militancy hit areas of Pakistan due to the operations in tribal areas to eradicate terrorism, a lot of families have been displaced from their home domain. FATA Disaster Management Authority with support of NADRA has verified citizens for the emergency recovery support. The financial aid is being given to all these deserving persons. Eligibility and enrolment is done through NADRA Citizen Database. Furthermore, Biometric Verification for Secure Disbursement of funds reporting mechanism for check and analysis of data is also facilitated in this program.
