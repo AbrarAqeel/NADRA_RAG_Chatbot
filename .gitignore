@@ -1,2 +1,97 @@
+# ============================================================
+# Secrets — never commit these
+# ============================================================
 .env
-.venv
+.env.*
+!.env.example
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+
+# ============================================================
+# Python (backend)
+# ============================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Packaging / build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Type checkers / linters
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints
+
+# ============================================================
+# Model caches (downloaded at runtime, not source)
+# ============================================================
+hf_cache/
+torch_cache/
+.cache/
+*.pt
+*.bin.cache
+
+# ============================================================
+# Node / React / Vite (frontend)
+# ============================================================
+frontend/node_modules/
+node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Vercel
+.vercel
+frontend/.vercel
+
+# ============================================================
+# Docker
+# ============================================================
+*.pid
+
+# ============================================================
+# OS / Editor
+# ============================================================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.swp
+*.swo
+
+# ============================================================
+# Logs
+# ============================================================
+*.log
+logs/
+
+# ============================================================
+# ChromaDB (uncomment if you don't want to commit the vector store —
+# e.g. if you're tracking it separately via Git LFS or rebuilding it)
+# ============================================================
+# chroma_db_fixed/
